@@ -9,6 +9,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",ABC-NEWS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="国际",ABC-NEWS
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_abcnewslive_001.m3u8
 #EXTINF:-1 group-title="国际",BloombergTV
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Yahoo! Finance
@@ -19,6 +21,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",NBC-NEWS
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="国际",NBC-NEWS
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
+#EXTINF:-1 group-title="国际",NEWSMAX
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8
 #EXTINF:-1 group-title="国际",SKY-NEWS
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 group-title="国际",韩国-KBS
@@ -31,6 +37,10 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩国-TBS
 http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
+#EXTINF:-1 group-title="国际",韩国-SBS
+https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8
+#EXTINF:-1 group-title="国际",韩国-MBC
+https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8
 #EXTINF:-1 group-title="国际",韩国-Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="国际",日本-NEWS24
@@ -55,6 +65,12 @@ https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="国际",Baby TV
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="国际",ALL Action
+https://d3b3ksvejgbmas.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AllAction-prod/playlist.m3u8
+#EXTINF:-1 group-title="国际",AMC Stories
+https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8
+#EXTINF:-1 group-title="国际",VICE
+https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="音乐",MTV-YO
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 #EXTINF:-1 group-title="音乐",MTV-BiggestPOP
@@ -144,6 +160,8 @@ http://60.249.146.250:8585/playlist.m3u8
 #EXTINF:-1 group-title="港台",年代MUCH
 http://60.249.146.250:8586/playlist.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1HD
+http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-1HD
 http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
@@ -176,6 +194,8 @@ http://39.134.65.183/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1HD
 http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2HD
+http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-2HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
@@ -193,6 +213,8 @@ http://111.20.41.250/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3
 http://117.148.179.160/PLTV/88888888/224/3221232362/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2HD
 http://117.148.179.160/PLTV/88888888/224/3221231678/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-3HD
+http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231682/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3HD
@@ -220,6 +242,8 @@ http://140.207.241.3:8080/live/program/live/cctv3hd/4000000/d1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225677/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV-4HD
+http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-4HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231726/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
@@ -235,8 +259,6 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225753/index.m3u8?servicetype=1&I
 http://39.135.32.28:6610/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV-4HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225775/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="央视",CCTV-5HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233115/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5HD
@@ -268,9 +290,7 @@ http://39.134.65.179/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5HD
 http://39.134.65.181/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+HD
-http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5+HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231459/index.m3u8
+http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+HD
 http://117.148.179.136/PLTV/88888888/224/3221231459/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+HD
@@ -300,6 +320,8 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225621/index.m3u8?servicetype=1&I
 #EXTINF:-1 group-title="央视",CCTV-5+HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV-6HD
+http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-6HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-6HD
 http://117.148.179.160/PLTV/88888888/224/3221231724/index.m3u8
@@ -320,7 +342,7 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225683/index.m3u8?servicetype=1&I
 #EXTINF:-1 group-title="央视",CCTV-6HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV-7HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231633/index.m3u8
+http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7HD
@@ -336,7 +358,7 @@ http://39.134.65.181/PLTV/88888888/224/3221225671/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7HD
 http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231694/index.m3u8
+http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8HD
@@ -362,7 +384,7 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225630/index.m3u8?servicetype=1&I
 #EXTINF:-1 group-title="央视",CCTV-8HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV-9HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231697/index.m3u8
+http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9HD
@@ -384,7 +406,7 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225633/index.m3u8?servicetype=1&I
 #EXTINF:-1 group-title="央视",CCTV-9HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV-10HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231666/index.m3u8
+http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-10HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-10HD
@@ -410,7 +432,7 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225624/index.m3u8?servicetype=1&I
 #EXTINF:-1 group-title="央视",CCTV-10HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225704/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV-11HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231711/index.m3u8
+http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-11HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-11HD
@@ -430,7 +452,7 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1&I
 #EXTINF:-1 group-title="央视",CCTV-11HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225750/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV-12HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231660/index.m3u8
+http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-12HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-12HD
@@ -478,7 +500,7 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225759/index.m3u8?servicetype=1&I
 #EXTINF:-1 group-title="央视",CCTV-13HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225787/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV-14HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231648/index.m3u8
+http://117.148.179.182/PLTV/88888888/224/3221231648/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14HD
@@ -502,7 +524,7 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&I
 #EXTINF:-1 group-title="央视",CCTV-14HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225673/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV-15HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231693/index.m3u8
+http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15HD
@@ -702,6 +724,8 @@ http://117.148.179.157/PLTV/88888888/224/3221231799/index.m3u8
 #EXTINF:-1 group-title="央视",CHC家庭影院
 http://39.134.32.102:6610/270000001111/1110000010/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="湖南",湖南卫视HD
+http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
+#EXTINF:-1 group-title="湖南",湖南卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
 #EXTINF:-1 group-title="湖南",湖南卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
@@ -722,7 +746,7 @@ http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 group-title="湖南",湖南卫视HD
 http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 group-title="江苏",江苏卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231447/index.m3u8
+http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
 #EXTINF:-1 group-title="江苏",江苏卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225702/index.m3u8
 #EXTINF:-1 group-title="江苏",江苏卫视HD
@@ -747,6 +771,8 @@ http://140.207.241.3:8080/live/program/live/jswshd/4000000/d1.m3u8
 http://39.135.32.28:6610/PLTV/77777777/224/3221225636/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="江苏",江苏卫视HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225722/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="浙江",浙江卫视HD
+http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
 #EXTINF:-1 group-title="浙江",浙江卫视HD
 http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江卫视HD
@@ -780,7 +806,7 @@ http://140.207.241.3:8080/live/program/live/zjwshd/4000000/d1.m3u8
 #EXTINF:-1 group-title="浙江",浙江卫视HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225695/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="上海",东方卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231738/index.m3u8
+http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
 #EXTINF:-1 group-title="上海",东方卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
 #EXTINF:-1 group-title="上海",东方卫视HD
@@ -809,8 +835,6 @@ http://140.207.241.3:8080/live/program/live/hddfws/4000000/d1.m3u8
 http://39.135.32.28:6610/PLTV/77777777/224/3221225682/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="上海",东方卫视HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="广东",广东卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231891/index.m3u8
 #EXTINF:-1 group-title="广东",广东卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225701/index.m3u8
 #EXTINF:-1 group-title="广东",广东卫视HD
@@ -856,7 +880,7 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225691/index.m3u8?servicetype=1&I
 #EXTINF:-1 group-title="广东",深圳卫视HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="北京",北京卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231732/index.m3u8
+http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
 #EXTINF:-1 group-title="北京",北京卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 group-title="北京",北京卫视HD
@@ -875,6 +899,8 @@ http://39.134.65.166/PLTV/88888888/224/3221225678/1.m3u8
 http://39.134.65.166/PLTV/88888888/224/3221225855/1.m3u8
 #EXTINF:-1 group-title="北京",北京卫视HD
 http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8
+#EXTINF:-1 group-title="天津",天津卫视HD
+http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
 #EXTINF:-1 group-title="天津",天津卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225698/index.m3u8
 #EXTINF:-1 group-title="天津",天津卫视HD
@@ -954,6 +980,8 @@ http://39.135.55.7:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1&IA
 #EXTINF:-1 group-title="河北",河北卫视HD
 http://221.179.136.134:443/PLTV/88888888/224/3221226507/1.m3u8
 #EXTINF:-1 group-title="安徽",安徽卫视HD
+http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225691/index.m3u8
 #EXTINF:-1 group-title="安徽",安徽卫视HD
 http://111.40.196.9/PLTV/88888888/224/3221225551/index.m3u8
@@ -994,6 +1022,8 @@ http://39.134.65.175/PLTV/88888888/224/3221225863/1.m3u8
 #EXTINF:-1 group-title="福建",东南卫视HD
 http://140.207.241.3:8080/live/program/live/dnwshd/4000000/d1.m3u8
 #EXTINF:-1 group-title="江西",江西卫视HD
+http://117.148.179.141/PLTV/88888888/224/3221231964/index.m3u8
+#EXTINF:-1 group-title="江西",江西卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225705/index.m3u8
 #EXTINF:-1 group-title="江西",江西卫视HD
 http://111.40.196.9/PLTV/88888888/224/3221225560/index.m3u8
@@ -1020,7 +1050,7 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225679/index.m3u8?servicetype=1&I
 #EXTINF:-1 group-title="重庆",重庆卫视HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="四川",四川卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231885/index.m3u8
+http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8
 #EXTINF:-1 group-title="四川",四川卫视HD
 http://117.148.179.160/PLTV/88888888/224/3221231885/index.m3u8
 #EXTINF:-1 group-title="四川",四川卫视HD
@@ -1029,6 +1059,8 @@ http://ep.b1791.com/php/sctv.php?id=scws
 http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="云南",云南卫视HD
 http://39.135.55.7:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="河南",河南卫视HD
+http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8
 #EXTINF:-1 group-title="河南",河南卫视HD
 http://39.135.55.7:6610/PLTV/88888888/224/3221227095/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="河南",河南卫视HD
