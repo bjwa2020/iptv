@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="国际",CNN
 https://a1a8ed5e13cf415eb687cf44e87b0c95.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_CNN/playlist.m3u8
 #EXTINF:-1 group-title="国际",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -19,6 +21,10 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="国际",FOX-NEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",FOX-NEWS
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 group-title="国际",NBC-NEWS
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 group-title="国际",NBC-NEWS
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="国际",NBC-NEWS
@@ -91,6 +97,10 @@ http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="港台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台",HBO
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#EXTINF:-1 group-title="港台",HBO
+http://190.171.101.36/HBO/index.m3u8
 #EXTINF:-1 group-title="港台",HBO PLUS
 http://213.151.233.20:8000/dna-6129-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1 group-title="港台",HBO亚洲
@@ -136,9 +146,15 @@ http://60.249.146.250:8522/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华卡通
 http://60.249.146.250:8517/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华日韩
+http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="港台",龙华日韩
 http://60.249.146.250:8535/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华偶像
+http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="港台",龙华偶像
 http://60.249.146.250:8536/playlist.m3u8
+#EXTINF:-1 group-title="港台",龙华戏剧
+http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",龙华戏剧
 http://60.249.146.250:8572/playlist.m3u8
 #EXTINF:-1 group-title="港台",八大戏剧
@@ -159,6 +175,8 @@ http://60.249.146.250:8523/http/60.251.39.91:8081/hls/76/818/momo_max.m3u8
 http://60.249.146.250:8585/playlist.m3u8
 #EXTINF:-1 group-title="港台",年代MUCH
 http://60.249.146.250:8586/playlist.m3u8
+#EXTINF:-1 group-title="港台",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1HD
 http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1HD
@@ -772,8 +790,6 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225636/index.m3u8?servicetype=1&I
 #EXTINF:-1 group-title="江苏",江苏卫视HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225722/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="浙江",浙江卫视HD
-http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
-#EXTINF:-1 group-title="浙江",浙江卫视HD
 http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江卫视HD
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -853,8 +869,6 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1&I
 http://39.135.32.28:6610/PLTV/77777777/224/3221225685/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="广东",广东卫视HD
 http://111.63.117.13:6060/030000001000/GDWS-HD/GDWS-HD.m3u8
-#EXTINF:-1 group-title="广东",深圳卫视HD
-http://39.134.65.181/PLTV/88888888/224/3221225886/1.m3u8
 #EXTINF:-1 group-title="广东",深圳卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225700/index.m3u8
 #EXTINF:-1 group-title="广东",深圳卫视HD
