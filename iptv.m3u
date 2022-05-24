@@ -9,6 +9,8 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",BBC
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="国际",CNBC
+http://59.125.101.187:8708/http/192.168.77.24:8078/hls/24/80/cnbc90.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="国际",ABC-NEWS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="国际",ABC-NEWS
@@ -98,9 +100,9 @@ http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="港台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="港台",HBO
-https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-#EXTINF:-1 group-title="港台",HBO
 http://190.171.101.36/HBO/index.m3u8
+#EXTINF:-1 group-title="港台",HBO
+http://59.125.101.187:8757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",HBO PLUS
 http://213.151.233.20:8000/dna-6129-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1 group-title="港台",HBO亚洲
@@ -110,71 +112,113 @@ http://60.249.146.250:8580/playlist.m3u8
 #EXTINF:-1 group-title="港台",HBO亚洲
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="港台",AXN
-http://60.249.146.250:8558/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
+http://59.125.101.187:8759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="港台",国家地理
+http://59.125.101.187:8709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="港台",动物星球
+http://59.125.101.187:8719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",东森新闻
-http://60.249.146.250:8594/playlist.m3u8
+http://59.125.101.187:8702/playlist.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
-http://60.249.146.250:8595/playlist.m3u8
+http://59.125.101.187:8703/playlist.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
-http://60.249.146.250:8596/playlist.m3u8
+http://59.125.101.187:8704/playlist.m3u8
+#EXTINF:-1 group-title="港台",三立新闻
+http://59.125.101.187:8705/playlist.m3u8
 #EXTINF:-1 group-title="港台",三立新闻
 http://60.249.146.250:8597/playlist.m3u8
+#EXTINF:-1 group-title="港台",华视新闻
+http://59.125.101.187:8704/http/192.168.77.24:8081/hls/75/817/ch58.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",华视新闻
 http://60.249.146.250:8592/playlist.m3u8
 #EXTINF:-1 group-title="港台",年代新闻
 http://60.249.146.250:8593/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森综合
+http://59.125.101.187:8771/http/192.168.77.24:8081/hls/63/805/ch12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="港台",东森综合
 http://60.249.146.250:8581/playlist.m3u8
+#EXTINF:-1 group-title="港台",东森超视
+http://59.125.101.187:8768/http/192.168.77.24:8081/hls/64/806/ch14.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",东森超视
 http://60.249.146.250:8582/playlist.m3u8
 #EXTINF:-1 group-title="港台",中天综合
+http://59.125.101.187:8733/http/192.168.77.24:8081/hls/67/809/ch25.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="港台",中天综合
 http://60.249.146.250:8583/playlist.m3u8
+#EXTINF:-1 group-title="港台",中天娱乐
+http://59.125.101.187:8734/playlist.m3u8
 #EXTINF:-1 group-title="港台",中天娱乐
 http://60.249.146.250:8584/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森戏剧
+http://59.125.101.187:8740/playlist.m3u8
+#EXTINF:-1 group-title="港台",东森戏剧
+http://59.125.101.187:8772/http/192.168.77.24:8081/hls/64/806/ch13.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="港台",东森戏剧
 http://60.249.146.250:8587/playlist.m3u8
+#EXTINF:-1 group-title="港台",纬来综合
+http://59.125.101.187:8770/http/192.168.77.24:8081/hls/68/810/ch32.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",纬来戏剧
 http://60.249.146.250:8590/playlist.m3u8
 #EXTINF:-1 group-title="港台",纬来日本
+http://59.125.101.187:8747/playlist.m3u8
+#EXTINF:-1 group-title="港台",纬来日本
 http://60.249.146.250:8591/playlist.m3u8
 #EXTINF:-1 group-title="港台",纬来电影
-http://60.249.146.250:8555/playlist.m3u8
+http://59.125.101.187:8710/playlist.m3u8
+#EXTINF:-1 group-title="港台",纬来育乐
+http://59.125.101.187:8762/playlist.m3u8
 #EXTINF:-1 group-title="港台",纬来体育
 http://60.249.146.250:8563/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华电影
 http://60.249.146.250:8522/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华卡通
+http://59.125.101.187:8761/http/192.168.77.24:8066/hls/210/10013/cstv13.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="港台",龙华卡通
 http://60.249.146.250:8517/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华日韩
-http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+http://59.125.98.83:8535/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华日韩
 http://60.249.146.250:8535/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华偶像
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+http://59.125.98.83:8536/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华偶像
 http://60.249.146.250:8536/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华戏剧
-http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+http://59.125.98.83:8534/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华戏剧
-http://60.249.146.250:8572/playlist.m3u8
+http://59.125.101.187:8764/http/192.168.77.24:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",八大戏剧
 http://60.249.146.250:8588/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 group-title="港台",八大综合
+http://59.125.101.187:8727/playlist.m3u8
 #EXTINF:-1 group-title="港台",八大综合
 http://60.249.146.250:8520/playlist.m3u8
 #EXTINF:-1 group-title="港台",三立台湾
 http://59.125.101.187:8501/playlist.m3u8
 #EXTINF:-1 group-title="港台",三立都会
+http://59.125.101.187:8732/http/192.168.77.24:8081/hls/65/807/ch19.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="港台",三立都会
 http://60.249.146.250:8557/playlist.m3u8
+#EXTINF:-1 group-title="港台",华视
+http://59.125.101.187:8713/playlist.m3u8
 #EXTINF:-1 group-title="港台",中视
 http://60.249.146.250:8502/playlist.m3u8
 #EXTINF:-1 group-title="港台",卫视中文台
+http://59.125.101.187:8720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="港台",卫视中文台
 http://60.249.146.250:8579/playlist.m3u8
+#EXTINF:-1 group-title="港台",卫视电影
+http://59.125.101.187:8753/playlist.m3u8
+#EXTINF:-1 group-title="港台",霹雳台湾
+http://59.125.101.187:8714/playlist.m3u8
+#EXTINF:-1 group-title="港台",JET综合
+http://59.125.101.187:8719/playlist.m3u8
 #EXTINF:-1 group-title="港台",MOMO综合
 http://60.249.146.250:8523/http/60.251.39.91:8081/hls/76/818/momo_max.m3u8
 #EXTINF:-1 group-title="港台",东风37
 http://60.249.146.250:8585/playlist.m3u8
 #EXTINF:-1 group-title="港台",年代MUCH
-http://60.249.146.250:8586/playlist.m3u8
+http://59.125.101.187:8701/playlist.m3u8
 #EXTINF:-1 group-title="港台",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1HD
