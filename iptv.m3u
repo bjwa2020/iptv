@@ -97,6 +97,8 @@ https://d3b3ksvejgbmas.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8
 #EXTINF:-1 group-title="国际",VICE
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="音乐",MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="音乐",MTV-YO
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 #EXTINF:-1 group-title="音乐",MTV-BiggestPOP
@@ -151,16 +153,28 @@ http://59.125.101.187:8709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8?token=73
 http://59.125.101.187:8719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",东森新闻
 http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="港台",东森新闻
+https://ytb.52sf.ga/live.m3u8?c=9
 #EXTINF:-1 group-title="港台",中天新闻
 http://220.134.196.147:9541/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="港台",中天新闻
+https://ytb.52sf.ga/live.m3u8?c=1
 #EXTINF:-1 group-title="港台",民视新闻
-http://59.125.101.187:8704/playlist.m3u8
+https://ytb.52sf.ga/live.m3u8?c=3
+#EXTINF:-1 group-title="港台",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港台",台视新闻
+https://ytb.52sf.ga/live.m3u8?c=5
+#EXTINF:-1 group-title="港台",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",三立新闻
-http://59.125.101.187:8705/playlist.m3u8
+https://ytb.52sf.ga/live.m3u8?c=17
 #EXTINF:-1 group-title="港台",三立新闻
-http://60.249.146.250:8597/playlist.m3u8
+https://ssttvv1.6zxr.xyz/twtv/index.m3u8
+#EXTINF:-1 group-title="港台",中视新闻
+https://ytb.52sf.ga/live.m3u8?c=8
 #EXTINF:-1 group-title="港台",华视新闻
-http://60.249.146.250:8592/playlist.m3u8
+https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
 #EXTINF:-1 group-title="港台",年代新闻
 http://220.134.196.147:9517/http/116.50.42.18:8081/hls/67/809/ch27.m3u8
 #EXTINF:-1 group-title="港台",东森综合
@@ -171,6 +185,20 @@ http://60.249.146.250:8581/playlist.m3u8
 http://59.125.101.187:8768/http/192.168.77.24:8081/hls/64/806/ch14.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",东森超视
 http://60.249.146.250:8582/playlist.m3u8
+#EXTINF:-1 group-title="港台",东森电影
+http://120.84.96.25:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="港台",东森电影
+http://120.84.96.43:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="港台",东森洋片
+http://120.84.96.29:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="港台",东森戏剧
+http://59.125.101.187:8772/http/192.168.77.24:8081/hls/64/806/ch13.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="港台",东森戏剧
+http://60.249.146.250:8587/playlist.m3u8
+#EXTINF:-1 group-title="港台",东森财经新闻
+https://ytb.52sf.ga/live.m3u8?c=12
+#EXTINF:-1 group-title="港台",东森美洲
+http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",中天综合
 http://59.125.101.187:8733/http/192.168.77.24:8081/hls/67/809/ch25.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",中天综合
@@ -179,12 +207,6 @@ http://60.249.146.250:8583/playlist.m3u8
 http://59.125.101.187:8734/playlist.m3u8
 #EXTINF:-1 group-title="港台",中天娱乐
 http://60.249.146.250:8584/playlist.m3u8
-#EXTINF:-1 group-title="港台",东森戏剧
-http://59.125.101.187:8772/http/192.168.77.24:8081/hls/64/806/ch13.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-#EXTINF:-1 group-title="港台",东森戏剧
-http://60.249.146.250:8587/playlist.m3u8
-#EXTINF:-1 group-title="港台",东森财经新闻
-http://59.125.101.187:8770/http/192.168.77.24:8081/hls/68/810/ch32.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",纬来戏剧
 http://60.249.146.250:8590/playlist.m3u8
 #EXTINF:-1 group-title="港台",纬来日本
@@ -227,10 +249,32 @@ http://59.125.101.187:8501/playlist.m3u8
 http://59.125.101.187:8732/http/192.168.77.24:8081/hls/65/807/ch19.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",三立都会
 http://60.249.146.250:8557/playlist.m3u8
+#EXTINF:-1 group-title="港台",民视
+http://hk.crtv.store/h9LfGk6jVB/WXcrtv2020/164
 #EXTINF:-1 group-title="港台",华视
-http://59.125.101.187:8713/playlist.m3u8
+http://hk.crtv.store/h9LfGk6jVB/WXcrtv2020/165
 #EXTINF:-1 group-title="港台",中视
-http://60.249.146.250:8502/playlist.m3u8
+http://hk.crtv.store/h9LfGk6jVB/WXcrtv2020/166
+#EXTINF:-1 group-title="港台",台视
+http://hk.crtv.store/h9LfGk6jVB/WXcrtv2020/167
+#EXTINF:-1 group-title="港台",公视
+http://hk.crtv.store/h9LfGk6jVB/WXcrtv2020/168
+#EXTINF:-1 group-title="港台",民视台湾台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/169
+#EXTINF:-1 group-title="港台",民视第一台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/170
+#EXTINF:-1 group-title="港台",中视经典台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/171
+#EXTINF:-1 group-title="港台",中视菁采台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/172
+#EXTINF:-1 group-title="港台",松视1台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/477
+#EXTINF:-1 group-title="港台",松视2台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/478
+#EXTINF:-1 group-title="港台",松视3台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/479
+#EXTINF:-1 group-title="港台",松视4台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/480
 #EXTINF:-1 group-title="港台",卫视中文台
 http://59.125.101.187:8720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",卫视中文台
@@ -253,6 +297,8 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1HD
 http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-1HD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226995/1.m3u8?servicetype=1
 #EXTINF:-1 group-title="央视",CCTV-1HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1HD
@@ -5745,10 +5791,6 @@ http://39.134.65.181/PLTV/88888888/224/3221225637/1.m3u8
 http://39.134.65.173/PLTV/88888888/224/3221225637/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级电视剧
 http://39.134.65.183/PLTV/88888888/224/3221225637/1.m3u8
-#EXTINF:-1 group-title="IHOT",IHOT-Y+
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-#EXTINF:-1 group-title="IHOT",IHOT-Y+
-http://117.148.179.160/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 group-title="景区",北京-水长城01
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="景区",北京-水长城02
@@ -5771,3 +5813,93 @@ http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
 http://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 #EXTINF:-1 group-title="景区",广东-汕头市小公园
 http://gcksc.v.kcdnvip.com/gc/bsszjs_1/index.m3u8
+#EXTINF:-1 group-title="影视",万合天宜FHD
+http://qytv.win86.top/tv/dytv.php?id=9220456
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/13/Osk26O.png" group-title="影视",庆余年FHD
+http://qytv.win86.top/tv/dytv.php?id=7489563
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/30/X3PLef.png" group-title="影视",女神01HD
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/30/X3PLef.png" group-title="影视",女神02HD
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",杨幂作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231556/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",成龙作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",吴京作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231564/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",葛优作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231754/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",古天乐作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",刘德华作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231757/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",周润发作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231709/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",云上电影HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231565/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",黄金剧场HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231637/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",军旅剧场HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231585/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",试胆大会HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231672/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",追剧少女HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231643/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",林正英系列HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231742/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",每日荐影HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231727/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",新片放映厅HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231640/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",喜剧联盟HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231621/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",盜墓系列HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231652/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",TVB剧场HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231733/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/27/LbOrgf.png" group-title="影视",神探狄仁杰HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231634/index.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",庆余年FHD
+http://61.241.131.18/tx.rtmp.huya.com/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",林正英FHD
+http://61.241.131.18/tx.rtmp.huya.com/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",情满四合院HD
+http://61.241.131.18/tx.rtmp.huya.com/1394575549-1394575549-5989656374756245504-2789274554-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",影院01HD
+http://61.241.131.18/tx.rtmp.huya.com/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",电影02HD
+http://61.241.131.18/tx.rtmp.huya.com/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",电影03HD
+http://61.241.131.18/tx.rtmp.huya.com/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",李小龙传奇HD
+http://61.241.131.18/tx.rtmp.huya.com/1423787852-1423787852-6115122260782088192-2847699160-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",铁齿铜牙纪晓岚HD
+http://61.241.131.18/tx.rtmp.huya.com/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",经典影视HD
+http://61.241.131.18/tx.rtmp.huya.com/1524434091-1524434091-6547394565752487936-3048991638-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",三国演义HD
+http://61.241.131.18/tx.rtmp.huya.com/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",新三国HD
+http://61.241.131.18/tx.rtmp.huya.com/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",镖行天下HD
+http://61.241.131.18/tx.rtmp.huya.com/1449574253-1449574253-6225874009758629888-2847699210-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",埋堆堆01HD
+http://61.241.131.18/tx.rtmp.huya.com/1199563452505-1199563452505-5444201420859375616-2399127028466-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",埋堆堆02FHD
+http://61.241.131.18/tx.rtmp.huya.com/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",埋堆堆03FHD
+http://61.241.131.18/tx.rtmp.huya.com/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",李连杰HD
+http://61.241.131.18/tx.rtmp.huya.com/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",刘德华01HD
+http://61.241.131.18/tx.rtmp.huya.com/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",刘德华02FHD
+http://61.241.131.18/tx.rtmp.huya.com/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",女神系列HD
+http://61.241.131.18/tx.rtmp.huya.com/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",相声小品SD
+http://61.241.131.18/tx.rtmp.huya.com/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",康熙微服私访记SD
+http://61.241.131.18/tx.rtmp.huya.com/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/05/24/XCu9w6.png" group-title="影视",倚天屠龙记SD
+http://61.241.131.18/tx.rtmp.huya.com/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.m3u8
