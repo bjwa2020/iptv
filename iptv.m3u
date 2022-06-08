@@ -71,17 +71,11 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="国际",日本-NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="国际",日本-群马テレビ
-https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="国际",日本-Tokyo MX 1
-https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-#EXTINF:-1 group-title="国际",日本-Tokyo MX 2
-https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-#EXTINF:-1 group-title="国际",日本-MX Live
-https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-#EXTINF:-1 group-title="国际",National Geographic
+#EXTINF:-1 group-title="国际",国家地理
+http://211.23.114.106:11150/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
+#EXTINF:-1 group-title="国际",国家地理
 http://103.167.190.250:80/hls/ngohd.m3u8
-#EXTINF:-1 group-title="国际",National Geographic
+#EXTINF:-1 group-title="国际",国家地理
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="国际",国家地理野生
 http://iptv12k.com:35461/live/8032022060101/452381/1222.m3u8
@@ -89,9 +83,11 @@ http://iptv12k.com:35461/live/8032022060101/452381/1222.m3u8
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="国际",动物星球
 http://iptv12k.com:35461/live/8032022060101/452381/1233.m3u8
-#EXTINF:-1 group-title="国际",探索
+#EXTINF:-1 group-title="国际",探索发现
+http://211.23.114.106:11510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 group-title="国际",探索发现
 http://iptv12k.com:35461/live/8032022060101/452381/1231.m3u8
-#EXTINF:-1 group-title="国际",探索
+#EXTINF:-1 group-title="国际",探索发现
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",探索科学
 http://iptv12k.com:35461/live/8032022060101/452381/1224.m3u8
@@ -164,6 +160,8 @@ http://iptv12k.com:35461/live/8032022060101/452381/1264.m3u8
 #EXTINF:-1 group-title="港台",HBO精彩
 http://iptv12k.com:35461/live/8032022060101/452381/1263.m3u8
 #EXTINF:-1 group-title="港台",AXN
+http://211.23.114.106:11140/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 group-title="港台",AXN
 http://iptv12k.com:35461/live/8032022060101/452381/1243.m3u8
 #EXTINF:-1 group-title="港台",NBA
 http://iptv12k.com:35461/live/8032022060101/452381/1227.m3u8
@@ -174,13 +172,17 @@ http://59.125.101.187:8709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8?token=73
 #EXTINF:-1 group-title="港台",动物星球
 http://59.125.101.187:8719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",东森新闻
+http://211.23.114.106:11220/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="港台",东森新闻
 http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
 http://iptv12k.com:35461/live/8032022060101/452381/1180.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
 http://iptv12k.com:35461/live/8032022060101/452381/1276.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
-https://ytb.52sf.ga/live.m3u8?c=1
+http://211.23.114.106:11555/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="港台",民视新闻
+http://211.23.114.106:11370/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
@@ -188,11 +190,15 @@ http://211.23.114.106:11370/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
 #EXTINF:-1 group-title="港台",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="港台",三立新闻
+http://211.23.114.106:11375/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1 group-title="港台",三立新闻
 http://iptv12k.com:35461/live/8032022060101/452381/1285.m3u8
 #EXTINF:-1 group-title="港台",中视新闻
 https://ytb.52sf.ga/live.m3u8?c=8
 #EXTINF:-1 group-title="港台",华视新闻
-https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
+http://211.23.114.106:11175/http/60.251.39.91:8081/hls/75/817/ch58.m3u8
+#EXTINF:-1 group-title="港台",年代新闻
+http://211.23.114.106:11330/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 #EXTINF:-1 group-title="港台",年代新闻
 http://iptv12k.com:35461/live/8032022060101/452381/1292.m3u8
 #EXTINF:-1 group-title="港台",东森综合
@@ -213,10 +219,14 @@ http://59.125.101.187:18740/playlist.m3u8
 http://iptv12k.com:35461/live/8032022060101/452381/1275.m3u8
 #EXTINF:-1 group-title="港台",东森美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="港台",东森幼幼
+http://211.23.114.106:11250/http/60.251.39.91:8081/hls/63/805/ch09.m3u8
 #EXTINF:-1 group-title="港台",中天综合
 http://211.23.114.106:11225/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 #EXTINF:-1 group-title="港台",中天综合
 http://60.249.146.250:8583/playlist.m3u8
+#EXTINF:-1 group-title="港台",中天娱乐
+http://211.23.114.106:11230/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 #EXTINF:-1 group-title="港台",中天娱乐
 http://iptv12k.com:35461/live/8032022060101/452381/1277.m3u8
 #EXTINF:-1 group-title="港台",中天亚洲
@@ -235,8 +245,12 @@ http://iptv12k.com:35461/live/8032022060101/452381/1241.m3u8
 http://iptv12k.com:35461/live/8032022060101/452381/1239.m3u8
 #EXTINF:-1 group-title="港台",纬来日本
 http://iptv12k.com:35461/live/8032022060101/452381/1238.m3u8
+#EXTINF:-1 group-title="港台",纬来日本
+http://211.23.114.106:11240/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 #EXTINF:-1 group-title="港台",纬来电影
 http://iptv12k.com:35461/live/8032022060101/452381/1236.m3u8
+#EXTINF:-1 group-title="港台",纬来育乐
+http://211.23.114.106:11335/http/60.251.39.91:8081/hls/68/810/ch30.m3u8
 #EXTINF:-1 group-title="港台",纬来育乐
 http://59.125.101.187:8762/playlist.m3u8
 #EXTINF:-1 group-title="港台",纬来体育
@@ -272,7 +286,7 @@ http://iptv12k.com:35461/live/8032022060101/452381/1287.m3u8
 #EXTINF:-1 group-title="港台",民视
 http://iptv12k.com:35461/live/8032022060101/452381/5204.m3u8
 #EXTINF:-1 group-title="港台",华视
-http://hk.crtv.store/h9LfGk6jVB/WXcrtv2020/165
+http://211.23.114.106:11110/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
 #EXTINF:-1 group-title="港台",中视
 http://iptv12k.com:35461/live/8032022060101/452381/1291.m3u8
 #EXTINF:-1 group-title="港台",台视
@@ -295,6 +309,8 @@ http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/478
 http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/479
 #EXTINF:-1 group-title="港台",松视4台
 http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/480
+#EXTINF:-1 group-title="港台",卫视中文台
+http://211.23.114.106:11140/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
 #EXTINF:-1 group-title="港台",卫视中文台
 http://59.125.101.187:8720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",卫视中文台
