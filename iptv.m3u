@@ -41,6 +41,10 @@ https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="国际",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="国际",FOX
+http://194.76.186.151:20001/play/FOX_HD
+#EXTINF:-1 group-title="国际",FOX Comedy
+http://194.76.186.151:20001/play/Fox_Comedy_HD
 #EXTINF:-1 group-title="国际",韩国 KBS
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",韩国 KBS
@@ -74,8 +78,6 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 #EXTINF:-1 group-title="国际",国家地理
 http://211.23.114.106:11150/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
 #EXTINF:-1 group-title="国际",国家地理
-http://103.167.190.250:80/hls/ngohd.m3u8
-#EXTINF:-1 group-title="国际",国家地理
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="国际",国家地理野生
 http://iptv12k.com:35461/live/8032022060101/452381/1222.m3u8
@@ -91,8 +93,14 @@ http://iptv12k.com:35461/live/8032022060101/452381/1231.m3u8
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",探索科学
 http://iptv12k.com:35461/live/8032022060101/452381/1224.m3u8
+#EXTINF:-1 group-title="国际",History
+http://194.76.186.151:20001/play/History_HD
+#EXTINF:-1 group-title="国际",AMC East
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="国际",AMC Presents
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="国际",AMC Stories
+https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8
 #EXTINF:-1 group-title="国际",Animax
 http://iptv12k.com:35461/live/8032022060101/452381/1230.m3u8
 #EXTINF:-1 group-title="国际",Animax
@@ -103,22 +111,34 @@ http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",ALL Action
 https://d3b3ksvejgbmas.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AllAction-prod/playlist.m3u8
-#EXTINF:-1 group-title="国际",AMC Stories
-https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8
 #EXTINF:-1 group-title="国际",VICE
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="音乐",MTV
+#EXTINF:-1 group-title="国际",MTV
 http://iptv12k.com:35461/live/8032022060101/452381/1205.m3u8
-#EXTINF:-1 group-title="音乐",MTV
+#EXTINF:-1 group-title="国际",MTV
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="音乐",MTV-YO
+#EXTINF:-1 group-title="国际",MTV-YO
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
-#EXTINF:-1 group-title="音乐",MTV-BiggestPOP
+#EXTINF:-1 group-title="国际",MTV-BiggestPOP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-#EXTINF:-1 group-title="音乐",MTV-BlockParty
+#EXTINF:-1 group-title="国际",MTV-BlockParty
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
-#EXTINF:-1 group-title="音乐",MTV-WMA
+#EXTINF:-1 group-title="国际",MTV-WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
+#EXTINF:-1 group-title="国际",AXN HD
+http://194.76.186.151:20001/play/AXN_HD
+#EXTINF:-1 group-title="国际",AXN Black
+http://194.76.186.151:20003/play/AXN_Black
+#EXTINF:-1 group-title="国际",AXN White
+http://194.76.186.151:20003/play/AXN_White
+#EXTINF:-1 group-title="国际",Disney Channel
+http://194.76.186.151:20003/play/Disney_Channel_HD
+#EXTINF:-1 group-title="国际",Disney XD
+http://194.76.186.151:20003/play/Disney_XD
+#EXTINF:-1 group-title="国际",Disney Junior
+http://194.76.186.151:20013/play/Disney_Junior
+#EXTINF:-1 group-title="国际",Cartoon Network
+http://194.76.186.151:20013/play/Cartoon_Networ_HD
 #EXTINF:-1 group-title="港台",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯
@@ -167,24 +187,10 @@ http://iptv12k.com:35461/live/8032022060101/452381/1243.m3u8
 http://iptv12k.com:35461/live/8032022060101/452381/1227.m3u8
 #EXTINF:-1 group-title="港台",NBA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="港台",国家地理
-http://59.125.101.187:8709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-#EXTINF:-1 group-title="港台",动物星球
-http://59.125.101.187:8719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",东森新闻
 http://211.23.114.106:11220/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-#EXTINF:-1 group-title="港台",东森新闻
-http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
-#EXTINF:-1 group-title="港台",东森新闻
-http://iptv12k.com:35461/live/8032022060101/452381/1180.m3u8
-#EXTINF:-1 group-title="港台",中天新闻
-http://iptv12k.com:35461/live/8032022060101/452381/1276.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
 http://211.23.114.106:11555/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
-#EXTINF:-1 group-title="港台",民视新闻
-http://211.23.114.106:11370/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
-#EXTINF:-1 group-title="港台",民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
 http://211.23.114.106:11370/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
 #EXTINF:-1 group-title="港台",台视新闻
@@ -195,6 +201,8 @@ http://211.23.114.106:11375/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 http://iptv12k.com:35461/live/8032022060101/452381/1285.m3u8
 #EXTINF:-1 group-title="港台",中视新闻
 https://ytb.52sf.ga/live.m3u8?c=8
+#EXTINF:-1 group-title="港台",华视新闻
+https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
 #EXTINF:-1 group-title="港台",华视新闻
 http://211.23.114.106:11175/http/60.251.39.91:8081/hls/75/817/ch58.m3u8
 #EXTINF:-1 group-title="港台",年代新闻
@@ -215,8 +223,8 @@ http://iptv12k.com:35461/live/8032022060101/452381/1256.m3u8
 http://iptv12k.com:35461/live/8032022060101/452381/1255.m3u8
 #EXTINF:-1 group-title="港台",东森戏剧
 http://59.125.101.187:18740/playlist.m3u8
-#EXTINF:-1 group-title="港台",东森财经新闻
-http://iptv12k.com:35461/live/8032022060101/452381/1275.m3u8
+#EXTINF:-1 group-title="港台",东森财经
+http://211.23.114.106:11305/http/60.251.39.91:8081/hls/63/805/ch11.m3u8
 #EXTINF:-1 group-title="港台",东森美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",东森幼幼
@@ -280,7 +288,7 @@ http://iptv12k.com:35461/live/8032022060101/452381/1281.m3u8
 #EXTINF:-1 group-title="港台",三立台湾
 http://iptv12k.com:35461/live/8032022060101/452381/1286.m3u8
 #EXTINF:-1 group-title="港台",三立台湾
-http://59.125.101.187:8501/playlist.m3u8
+http://211.23.114.106:11200/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 #EXTINF:-1 group-title="港台",三立都会
 http://iptv12k.com:35461/live/8032022060101/452381/1287.m3u8
 #EXTINF:-1 group-title="港台",民视
@@ -318,7 +326,7 @@ http://iptv12k.com:35461/live/8032022060101/452381/1257.m3u8
 #EXTINF:-1 group-title="港台",卫视电影
 http://iptv12k.com:35461/live/8032022060101/452381/1258.m3u8
 #EXTINF:-1 group-title="港台",霹雳台湾
-http://59.125.101.187:8714/playlist.m3u8
+http://211.23.114.106:11505/http/60.251.39.91:8081/hls/75/817/ch59.m3u8
 #EXTINF:-1 group-title="港台",JET综合
 http://59.125.101.187:8719/playlist.m3u8
 #EXTINF:-1 group-title="港台",MOMO综合
@@ -328,7 +336,7 @@ http://iptv12k.com:35461/live/8032022060101/452381/1209.m3u8
 #EXTINF:-1 group-title="港台",东风37
 http://60.249.146.250:8585/playlist.m3u8
 #EXTINF:-1 group-title="港台",年代MUCH
-http://59.125.101.187:8701/playlist.m3u8
+http://211.23.114.106:11320/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 #EXTINF:-1 group-title="港台",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1HD
@@ -881,6 +889,114 @@ http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8
 http://117.148.179.157/PLTV/88888888/224/3221231799/index.m3u8
 #EXTINF:-1 group-title="央视",CHC家庭影院
 http://39.134.32.102:6610/270000001111/1110000010/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="北京",北京卫视HD
+http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="北京",北京卫视HD
+http://39.135.138.58:18890/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="北京",北京卫视HD
+http://111.40.196.9/PLTV/88888888/224/3221225529/index.m3u8
+#EXTINF:-1 group-title="北京",北京卫视HD
+http://111.40.196.9/PLTV/88888888/224/3221225540/index.m3u8
+#EXTINF:-1 group-title="北京",北京卫视HD
+http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
+#EXTINF:-1 group-title="北京",北京卫视HD
+http://39.134.65.164/PLTV/88888888/224/3221225678/1.m3u8
+#EXTINF:-1 group-title="北京",北京卫视HD
+http://39.134.65.166/PLTV/88888888/224/3221225678/1.m3u8
+#EXTINF:-1 group-title="北京",北京卫视HD
+http://39.134.65.166/PLTV/88888888/224/3221225855/1.m3u8
+#EXTINF:-1 group-title="北京",北京卫视HD
+http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8
+#EXTINF:-1 group-title="北京",北京文艺HD
+http://221.179.136.134:443/PLTV/88888888/224/3221226440/1.m3u8
+#EXTINF:-1 group-title="北京",北京文艺HD
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
+#EXTINF:-1 group-title="北京",北京冬奥纪实HD
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+#EXTINF:-1 group-title="北京",北京冬奥纪实HD
+http://111.20.33.93/PLTV/88888893/224/3221226232/index.m3u8
+#EXTINF:-1 group-title="北京",北京冬奥纪实HD
+http://39.134.65.164/PLTV/88888888/224/3221225670/1.m3u8
+#EXTINF:-1 group-title="北京",北京冬奥纪实HD
+http://39.134.65.166/PLTV/88888888/224/3221225670/1.m3u8
+#EXTINF:-1 group-title="北京",北京冬奥纪实HD
+http://39.135.32.28:6610/PLTV/77777777/224/3221225667/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="北京",北京科教
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
+#EXTINF:-1 group-title="北京",北京影视
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
+#EXTINF:-1 group-title="北京",北京财经
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
+#EXTINF:-1 group-title="北京",北京生活
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
+#EXTINF:-1 group-title="北京",北京青年
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
+#EXTINF:-1 group-title="北京",北京新闻
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
+#EXTINF:-1 group-title="北京",北京国际
+http://221.179.136.146:443/PLTV/88888888/224/3221226510/1.m3u8
+#EXTINF:-1 group-title="北京",北京卡酷少儿
+http://39.135.138.58:18890/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="北京",北京卡酷少儿
+http://39.134.65.162/PLTV/88888888/224/3221225562/1.m3u8
+#EXTINF:-1 group-title="北京",北京卡酷少儿
+http://39.134.65.164/PLTV/88888888/224/3221225562/1.m3u8
+#EXTINF:-1 group-title="北京",北京卡酷少儿
+http://39.135.32.28:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="北京",北京卡酷少儿
+http://140.207.241.3:8080/live/program/live/kkkt/1300000/d1.m3u8
+#EXTINF:-1 group-title="北京",北京卡酷少儿
+http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
+#EXTINF:-1 group-title="IPTV",北京IPTV4K超清
+http://221.179.136.148:443/PLTV/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 group-title="IPTV",北京IPTV4K超清
+http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 group-title="IPTV",北京IPTV萌宠TV
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOSDD3mErwuVWF5DqfHIW%2FMQ%3D%3D%3A20211105223205%2C10000100000000050000000003887495%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 group-title="IPTV",北京IPTV淘baby
+http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 group-title="IPTV",北京IPTV淘电影
+http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
+#EXTINF:-1 group-title="IPTV",北京IPTV淘剧场
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 group-title="IPTV",北京IPTV淘娱乐
+http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 group-title="北京",四海钓鱼
+http://117.148.179.160/PLTV/88888888/224/3221231718/index.m3u8
+#EXTINF:-1 group-title="北京",环球旅游
+http://117.148.179.160/PLTV/88888888/224/3221231712/index.m3u8
+#EXTINF:-1 group-title="北京",京视剧场
+http://111.20.33.93/PLTV/88888893/224/3221226243/index.m3u8
+#EXTINF:-1 group-title="北京",京视剧场
+http://111.20.33.93/PLTV/88888893/224/3221226242/index.m3u8
+#EXTINF:-1 group-title="北京",中华特产
+http://39.136.48.2:8089/PLTV/88888888/224/3221226340/index.m3u8
+#EXTINF:-1 group-title="北京",通州电视台
+http://pull.dayuntongzhou.com/live/tztv.m3u8
+#EXTINF:-1 group-title="北京",房山无线频道
+http://live.funhillrm.com/2/sd/live.m3u8
+#EXTINF:-1 group-title="北京",房山有线频道
+http://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1 group-title="北京",怀柔电视台
+https://pili-live-hdl.huairtv.com/bjhr/hrxw.m3u8
+#EXTINF:-1 group-title="北京",石景山有线
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1 group-title="北京",顺义电视
+http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1
+#EXTINF:-1 group-title="北京",昌平综合
+http://61.50.142.158/live/0.m3u8
+#EXTINF:-1 group-title="北京",清华大学电视台
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+#EXTINF:-1 group-title="北京",中国国际教育1
+http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+#EXTINF:-1 group-title="北京",中国国际教育2
+http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+#EXTINF:-1 group-title="北京",中国国际教育3
+http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+#EXTINF:-1 group-title="北京",中国国际教育4
+http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+#EXTINF:-1 group-title="北京",党员教育频道
+http://12371alic.v.myalicdn.com/12371/dangyuanwang_1/index.m3u8
 #EXTINF:-1 group-title="湖南",湖南卫视HD
 http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
 #EXTINF:-1 group-title="湖南",湖南卫视HD
@@ -1031,24 +1147,6 @@ http://140.207.241.3:8080/live/program/live/szwshd/4000000/d1.m3u8
 http://39.135.32.28:6610/PLTV/77777777/224/3221225691/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="广东",深圳卫视HD
 http://39.135.32.28:6610/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="北京",北京卫视HD
-http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="北京",北京卫视HD
-http://39.135.138.58:18890/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="北京",北京卫视HD
-http://111.40.196.9/PLTV/88888888/224/3221225529/index.m3u8
-#EXTINF:-1 group-title="北京",北京卫视HD
-http://111.40.196.9/PLTV/88888888/224/3221225540/index.m3u8
-#EXTINF:-1 group-title="北京",北京卫视HD
-http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
-#EXTINF:-1 group-title="北京",北京卫视HD
-http://39.134.65.164/PLTV/88888888/224/3221225678/1.m3u8
-#EXTINF:-1 group-title="北京",北京卫视HD
-http://39.134.65.166/PLTV/88888888/224/3221225678/1.m3u8
-#EXTINF:-1 group-title="北京",北京卫视HD
-http://39.134.65.166/PLTV/88888888/224/3221225855/1.m3u8
-#EXTINF:-1 group-title="北京",北京卫视HD
-http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8
 #EXTINF:-1 group-title="天津",天津卫视HD
 http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
 #EXTINF:-1 group-title="天津",天津卫视HD
@@ -1605,96 +1703,6 @@ http://220.180.24.62:1935/live/live1/playlist.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="安徽",淮河能源综合
 http://play.hhnynews.com/hhny/zhpd.m3u8?auth_key=1659380497-0-0-b07e3e3cd99f9355b6aa1e79fbd305f2
-#EXTINF:-1 group-title="北京",北京文艺HD
-http://221.179.136.134:443/PLTV/88888888/224/3221226440/1.m3u8
-#EXTINF:-1 group-title="北京",北京冬奥纪实HD
-http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
-#EXTINF:-1 group-title="北京",北京冬奥纪实HD
-http://111.20.33.93/PLTV/88888893/224/3221226232/index.m3u8
-#EXTINF:-1 group-title="北京",北京冬奥纪实HD
-http://39.134.65.164/PLTV/88888888/224/3221225670/1.m3u8
-#EXTINF:-1 group-title="北京",北京冬奥纪实HD
-http://39.134.65.166/PLTV/88888888/224/3221225670/1.m3u8
-#EXTINF:-1 group-title="北京",北京冬奥纪实HD
-http://39.135.32.28:6610/PLTV/77777777/224/3221225667/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="北京",北京文艺
-http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
-#EXTINF:-1 group-title="北京",北京科教
-http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
-#EXTINF:-1 group-title="北京",北京影视
-http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
-#EXTINF:-1 group-title="北京",北京财经
-http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
-#EXTINF:-1 group-title="北京",北京生活
-http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
-#EXTINF:-1 group-title="北京",北京青年
-http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
-#EXTINF:-1 group-title="北京",北京新闻
-http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
-#EXTINF:-1 group-title="北京",北京国际
-http://221.179.136.146:443/PLTV/88888888/224/3221226510/1.m3u8
-#EXTINF:-1 group-title="北京",北京卡酷少儿
-http://39.135.138.58:18890/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="北京",北京卡酷少儿
-http://39.134.65.162/PLTV/88888888/224/3221225562/1.m3u8
-#EXTINF:-1 group-title="北京",北京卡酷少儿
-http://39.134.65.164/PLTV/88888888/224/3221225562/1.m3u8
-#EXTINF:-1 group-title="北京",北京卡酷少儿
-http://39.135.32.28:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="北京",北京卡酷少儿
-http://140.207.241.3:8080/live/program/live/kkkt/1300000/d1.m3u8
-#EXTINF:-1 group-title="北京",北京卡酷少儿
-http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
-#EXTINF:-1 group-title="IPTV",北京IPTV4K超清
-http://221.179.136.148:443/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 group-title="IPTV",北京IPTV4K超清
-http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-#EXTINF:-1 group-title="IPTV",北京IPTV萌宠TV
-http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOSDD3mErwuVWF5DqfHIW%2FMQ%3D%3D%3A20211105223205%2C10000100000000050000000003887495%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-#EXTINF:-1 group-title="IPTV",北京IPTV淘baby
-http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-#EXTINF:-1 group-title="IPTV",北京IPTV淘电影
-http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
-#EXTINF:-1 group-title="IPTV",北京IPTV淘剧场
-http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-#EXTINF:-1 group-title="IPTV",北京IPTV淘娱乐
-http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-#EXTINF:-1 group-title="北京",四海钓鱼
-http://117.148.179.160/PLTV/88888888/224/3221231718/index.m3u8
-#EXTINF:-1 group-title="北京",环球旅游
-http://117.148.179.160/PLTV/88888888/224/3221231712/index.m3u8
-#EXTINF:-1 group-title="北京",京视剧场
-http://111.20.33.93/PLTV/88888893/224/3221226243/index.m3u8
-#EXTINF:-1 group-title="北京",京视剧场
-http://111.20.33.93/PLTV/88888893/224/3221226242/index.m3u8
-#EXTINF:-1 group-title="北京",中华特产
-http://39.136.48.2:8089/PLTV/88888888/224/3221226340/index.m3u8
-#EXTINF:-1 group-title="北京",通州电视台
-http://pull.dayuntongzhou.com/live/tztv.m3u8
-#EXTINF:-1 group-title="北京",房山无线频道
-http://live.funhillrm.com/2/sd/live.m3u8
-#EXTINF:-1 group-title="北京",房山有线频道
-http://live.funhillrm.com/5/sd/live.m3u8
-#EXTINF:-1 group-title="北京",怀柔电视台
-https://pili-live-hdl.huairtv.com/bjhr/hrxw.m3u8
-#EXTINF:-1 group-title="北京",石景山有线
-http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1 group-title="北京",顺义电视
-http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1
-#EXTINF:-1 group-title="北京",昌平综合
-http://61.50.142.158/live/0.m3u8
-#EXTINF:-1 group-title="北京",清华大学电视台
-http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-#EXTINF:-1 group-title="北京",中国国际教育1
-http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-#EXTINF:-1 group-title="北京",中国国际教育2
-http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-#EXTINF:-1 group-title="北京",中国国际教育3
-http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1 group-title="北京",中国国际教育4
-http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-#EXTINF:-1 group-title="北京",党员教育频道
-http://12371alic.v.myalicdn.com/12371/dangyuanwang_1/index.m3u8
 #EXTINF:-1 group-title="重庆",重庆新闻
 http://dyzy.pub:8000/udp/235.254.197.199:7980
 #EXTINF:-1 group-title="重庆",重庆社会与法
