@@ -16,6 +16,8 @@ http://iptv12k.com:35461/live/8032022060101/452381/1207.m3u8
 #EXTINF:-1 group-title="国际",CNBC
 http://59.125.101.187:10708/http/192.168.77.24:8078/hls/24/80/cnbc90.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="国际",CBSN
+https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
+#EXTINF:-1 group-title="国际",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 group-title="国际",FOX-NEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -30,7 +32,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 group-title="国际",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="国际",NEWSMAX
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",SKY-NEWS
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 group-title="国际",ABC-NEWS
@@ -40,19 +42,27 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 group-title="国际",BloombergTV
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="国际",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="国际",FOX
 http://194.76.186.151:20001/play/FOX_HD
+#EXTINF:-1 group-title="国际",FOX Soul
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
 #EXTINF:-1 group-title="国际",FOX Comedy
 http://194.76.186.151:20001/play/Fox_Comedy_HD
 #EXTINF:-1 group-title="国际",韩国 KBS
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",韩国 KBS
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="国际",韩国 KBS
+http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩国 KBS Joy
 http://iptv12k.com:35461/live/8032022060101/452381/3208.m3u8
+#EXTINF:-1 group-title="国际",韩国 KBS2
+http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩国 KBS2
 http://iptv12k.com:35461/live/8032022060101/452381/3233.m3u8
 #EXTINF:-1 group-title="国际",韩国-TBS
@@ -60,9 +70,13 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩国-TBS
 http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩国 SBS
+http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
+#EXTINF:-1 group-title="国际",韩国 SBS
 https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8
 #EXTINF:-1 group-title="国际",韩国 SBS Plus
 http://iptv12k.com:35461/live/8032022060101/452381/3211.m3u8
+#EXTINF:-1 group-title="国际",韩国-MBC
+http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩国-MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩国-MBC
@@ -191,24 +205,28 @@ http://iptv12k.com:35461/live/8032022060101/452381/1227.m3u8
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
 http://59.125.101.187:10702/playlist.m3u8
+#EXTINF:-1 group-title="港台",东森新闻
+http://220.134.196.147:9540/index.m3u8
+#EXTINF:-1 group-title="港台",中天新闻
+http://60.251.59.180:8504/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
 http://59.125.101.187:10703/playlist.m3u8
-#EXTINF:-1 group-title="港台",中天新闻
-http://59.125.101.187:10703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",民视新闻
 http://59.125.101.187:10704/playlist.m3u8
+#EXTINF:-1 group-title="港台",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港台",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="港台",三立新闻
-http://iptv12k.com:35461/live/8032022060101/452381/1285.m3u8
-#EXTINF:-1 group-title="港台",三立新闻
-http://59.125.101.187:10705/playlist.m3u8
+http://59.125.101.187:10756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",中视新闻
 http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 #EXTINF:-1 group-title="港台",华视新闻
-http://59.125.98.83:8538/playlist.m3u8
-#EXTINF:-1 group-title="港台",华视新闻
-http://211.23.114.106:11175/http/60.251.39.91:8081/hls/75/817/ch58.m3u8
+http://59.125.101.187:10704/http/192.168.77.24:8081/hls/75/817/ch58.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="港台",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="港台",TVBS新闻
@@ -216,13 +234,9 @@ http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363
 #EXTINF:-1 group-title="港台",年代新闻
 http://iptv12k.com:35461/live/8032022060101/452381/1292.m3u8
 #EXTINF:-1 group-title="港台",东森综合
-http://iptv12k.com:35461/live/8032022060101/452381/1280.m3u8
-#EXTINF:-1 group-title="港台",东森综合
 http://59.125.101.187:10771/http/192.168.77.24:8081/hls/63/805/ch12.m3u8
 #EXTINF:-1 group-title="港台",东森超视
-http://59.125.101.187:8768/http/192.168.77.24:8081/hls/64/806/ch14.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-#EXTINF:-1 group-title="港台",东森超视
-http://60.249.146.250:8582/playlist.m3u8
+http://59.125.101.187:10768/http/192.168.77.24:8081/hls/64/806/ch14.m3u8
 #EXTINF:-1 group-title="港台",东森电影
 http://iptv12k.com:35461/live/8032022060101/452381/1254.m3u8
 #EXTINF:-1 group-title="港台",东森洋片
@@ -233,6 +247,8 @@ http://iptv12k.com:35461/live/8032022060101/452381/1255.m3u8
 http://59.125.101.187:18740/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森财经
 http://59.125.101.187:10770/playlist.m3u8
+#EXTINF:-1 group-title="港台",东森美洲
+http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",东森美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",东森幼幼
