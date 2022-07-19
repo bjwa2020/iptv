@@ -57,10 +57,6 @@ http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nba.tv.usa.us.m3u8
 #EXTINF:-1 group-title="国际",NBA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",ESPN1
-http://38.127.211.18:80/live/c2eds/ESPN1USA/HLS/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN2
-http://38.127.211.18:80/live/c2eds/ESPN2USA/HLS/index.m3u8
 #EXTINF:-1 group-title="国际",韩国 KBS
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",韩国 KBS
@@ -198,8 +194,6 @@ http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="港台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="港台",HBO
-http://59.125.101.187:8857/http/192.168.77.24:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 group-title="港台",HBO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="港台",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
@@ -236,7 +230,7 @@ http://211.23.114.106:11140/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
 #EXTINF:-1 group-title="港台",AXN
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
-https://ytb.52sf.ga/jmsytb.m3u8?c=9
+http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 #EXTINF:-1 group-title="港台",东森新闻
 http://61.222.202.191/gt/gttv.php?id=13635&cid=13787
 #EXTINF:-1 group-title="港台",中天新闻
