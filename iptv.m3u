@@ -126,7 +126,7 @@ https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="国际",AMC Stories
 https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8
 #EXTINF:-1 group-title="国际",Animax
-http://59.125.101.187:12744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8
+http://61.219.170.95:18548/.m3u8
 #EXTINF:-1 group-title="国际",Animax
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",Baby First
@@ -226,9 +226,7 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906
 #EXTINF:-1 group-title="港台",HBO原创
 http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1 group-title="港台",AXN
-http://211.23.114.106:11140/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
-#EXTINF:-1 group-title="港台",AXN
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+http://61.219.170.95:18548/.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
 http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 #EXTINF:-1 group-title="港台",东森新闻
@@ -316,7 +314,7 @@ http://61.219.170.95:18541/.m3u8
 #EXTINF:-1 group-title="港台",纬来体育
 http://50.7.220.74:8278/videolandsport_twn/playlist.m3u8?tid=m297afae2173c10027172&ct=17874&tsum=059e8c4d61e754d611ae4903c24be121
 #EXTINF:-1 group-title="港台",龙华电影
-http://59.125.101.187:8868/http/192.168.77.24:8066/hls/210/10014/cstv14.m3u8
+http://61.219.170.95:18574/.m3u8
 #EXTINF:-1 group-title="港台",龙华卡通
 http://61.219.170.95:18600/.m3u8
 #EXTINF:-1 group-title="港台",龙华卡通
@@ -326,7 +324,7 @@ http://59.125.101.187:8864/http/192.168.77.24:8066/hls/210/10011/cstv11.m3u8
 #EXTINF:-1 group-title="港台",龙华日韩
 http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 group-title="港台",龙华偶像
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+http://61.219.170.95:18573/.m3u8
 #EXTINF:-1 group-title="港台",龙华戏剧
 http://59.125.101.187:8864/http/192.168.77.24:8066/hls/210/10010/cstv10.m3u8
 #EXTINF:-1 group-title="港台",龙华戏剧
@@ -381,8 +379,6 @@ http://211.23.114.106:11505/http/60.251.39.91:8081/hls/75/817/ch59.m3u8
 http://59.125.101.187:8719/playlist.m3u8
 #EXTINF:-1 group-title="港台",MOMO综合
 http://61.219.170.95:18576/.m3u8
-#EXTINF:-1 group-title="港台",MOMO综合
-http://60.249.146.250:8523/http/60.251.39.91:8081/hls/76/818/momo_max.m3u8
 #EXTINF:-1 group-title="港台",MOMO亲子
 http://59.125.101.187:8810/http/192.168.77.24:8081/hls/70/812/ch40.m3u8
 #EXTINF:-1 group-title="港台",东风37
