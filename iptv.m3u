@@ -248,35 +248,23 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 #EXTINF:-1 group-title="港台",AXN
 http://61.219.170.95:18548/.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="港台",东森新闻
-http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
-#EXTINF:-1 group-title="港台",东森新闻
-http://61.222.202.191/gt/gttv.php?id=13635&cid=13787
+http://tv.redrainl.site:9500/live.m3u8?c=5
 #EXTINF:-1 group-title="港台",中天新闻
-http://seb.sason.top/sc/ztxw_fhd.m3u8
+http://tv.redrainl.site:9500/live.m3u8?c=3
 #EXTINF:-1 group-title="港台",民视新闻
-http://114.34.191.36:8542/.m3u8
+http://tv.redrainl.site:9500/live.m3u8?c=1
 #EXTINF:-1 group-title="港台",台视新闻
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 group-title="港台",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="港台",台视新闻
-http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/8153b94d-cbd9-49e8-a105-45a5fed98f84.m3u8
+http://tv.redrainl.site:9500/live.m3u8?c=11
 #EXTINF:-1 group-title="港台",三立新闻
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 group-title="港台",三立新闻
-http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+http://tv.redrainl.site:9500/live.m3u8?c=6
 #EXTINF:-1 group-title="港台",中视新闻
-https://ytb.52sf.ga/jmsytb.m3u8?c=8
+http://tv.redrainl.site:9500/live.m3u8?c=2
 #EXTINF:-1 group-title="港台",华视新闻
 http://114.34.191.36:8538/.m3u8
 #EXTINF:-1 group-title="港台",TVBS新闻
-https://ytb.52sf.ga/jmsytb.m3u8?c=45
-#EXTINF:-1 group-title="港台",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="港台",TVBS新闻
-http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
+http://tv.redrainl.site:9500/live.m3u8?c=4
+#EXTINF:-1 group-title="港台",寰宇新闻
+http://tv.redrainl.site:9500/live.m3u8?c=22
 #EXTINF:-1 group-title="港台",年代新闻
 http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 #EXTINF:-1 group-title="港台",东森综合
@@ -316,9 +304,9 @@ https://wabc.ml/hlk.php?id=121
 #EXTINF:-1 group-title="港台",中天亚洲
 http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
 #EXTINF:-1 group-title="港台",TVBS
-http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+http://tv.redrainl.site:9500/live.m3u8?c=25
 #EXTINF:-1 group-title="港台",TVBS亚洲
-https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033750
+http://tv.redrainl.site:9500/live.m3u8?c=25
 #EXTINF:-1 group-title="港台",TVBS精彩
 http://61.222.202.191/gt/gttv.php?id=15134&cid=15297
 #EXTINF:-1 group-title="港台",TVBS-G欢乐
