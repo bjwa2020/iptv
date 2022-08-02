@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",CNN
+https://315f9c42eaf242e99c5a1007999d2d8e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_CNN/playlist.m3u8
+#EXTINF:-1 group-title="国际",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",CNN
 https://a1a8ed5e13cf415eb687cf44e87b0c95.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_CNN/playlist.m3u8
@@ -9,6 +11,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",BBC
 http://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="国际",Reuters
+https://e6c161a2065f471aaf3136462778a6da.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ReutersNow/playlist.m3u8
 #EXTINF:-1 group-title="国际",Reuters
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="国际",Reuters
@@ -244,21 +248,23 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 #EXTINF:-1 group-title="港台",AXN
 http://61.219.170.95:18548/.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",东森新闻
 http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 #EXTINF:-1 group-title="港台",东森新闻
 http://61.222.202.191/gt/gttv.php?id=13635&cid=13787
 #EXTINF:-1 group-title="港台",中天新闻
-http://114.34.191.36:8541/.m3u8
+http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
 http://114.34.191.36:8542/.m3u8
 #EXTINF:-1 group-title="港台",台视新闻
-https://ytb.52sf.ga/jmsytb.m3u8?c=6
+http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 group-title="港台",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",台视新闻
 http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/8153b94d-cbd9-49e8-a105-45a5fed98f84.m3u8
 #EXTINF:-1 group-title="港台",三立新闻
-http://59.125.101.187:8834/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 group-title="港台",三立新闻
 http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 #EXTINF:-1 group-title="港台",中视新闻
@@ -779,10 +785,6 @@ http://39.134.65.183/PLTV/88888888/224/3221225503/1.m3u8
 http://39.134.65.175/PLTV/88888888/224/3221225503/1.m3u8
 #EXTINF:-1 group-title="国内",江苏卫视
 http://140.207.241.3:8080/live/program/live/jswshd/4000000/d1.m3u8
-#EXTINF:-1 group-title="国内",浙江卫视
-http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 group-title="国内",浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="国内",浙江卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
 #EXTINF:-1 group-title="国内",浙江卫视
