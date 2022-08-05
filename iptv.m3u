@@ -22,8 +22,6 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="国际",Reuters
 http://ott-cdn.ucom.am/s96/index.m3u8
 #EXTINF:-1 group-title="国际",CNBC
-http://61.219.170.95:18551/.m3u8
-#EXTINF:-1 group-title="国际",CNBC
 http://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",CBSN
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -73,8 +71,6 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩国-TBS
 http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
-#EXTINF:-1 group-title="国际",韩国 SBS
-http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩国 SBS
 https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8
 #EXTINF:-1 group-title="国际",韩国 SBS Plus
@@ -133,6 +129,8 @@ http://streamer.crimea-tv.net/FOX_HD/video.m3u8?token=9d3cc59e
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",FOX Comedy
 http://194.76.186.151:20001/play/Fox_Comedy_HD
+#EXTINF:-1 group-title="国际",AMC+
+http://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 group-title="国际",AMC East
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="国际",AMC Presents
@@ -211,6 +209,22 @@ http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="港台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 group-title="港台",翡翠台2
+http://113.64.147.8:808/hls/67/index.m3u8
+#EXTINF:-1 group-title="港台",无线新闻台
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+#EXTINF:-1 group-title="港台",TVB J1
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1 group-title="港台",RTHK31
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 group-title="港台",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="港台",ViuTV
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+#EXTINF:-1 group-title="港台",ViuTV Six
+https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 group-title="港台",HBO
 http://114.34.191.36:8557/.m3u8
 #EXTINF:-1 group-title="港台",HBO
