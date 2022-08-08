@@ -76,10 +76,6 @@ https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="国际",韩国 SBS Plus
 http://itskoi.dothome.co.kr/sbs.php?id=S03
 #EXTINF:-1 group-title="国际",韩国-MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="国际",韩国-MBC
-http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="国际",韩国-MBC
 https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8
 #EXTINF:-1 group-title="国际",韩国-Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -90,41 +86,23 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="国际",日本-NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="国际",国家地理
-http://114.34.191.36:8509/.m3u8
-#EXTINF:-1 group-title="国际",国家地理
-http://59.125.101.187:8809/http/192.168.77.24:8081/hls/61/803/ch01.m3u8
-#EXTINF:-1 group-title="国际",国家地理
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="国际",国家地理
-http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:-1 group-title="国际",国家地理野生
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="国际",国家地理野生
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",动物星球
 http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",动物星球
-http://114.34.191.36:8512/.m3u8
-#EXTINF:-1 group-title="国际",动物星球
-http://103.55.144.46/hls/animalplanent.m3u8
 #EXTINF:-1 group-title="国际",探索发现
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",探索发现
 http://103.55.144.46/hls/discovery.m3u8
-#EXTINF:-1 group-title="国际",探索科学
-http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 #EXTINF:-1 group-title="国际",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="国际",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 group-title="国际",History
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/history.channel.us.east.us.m3u8
-#EXTINF:-1 group-title="国际",History
-http://194.76.186.151:20001/play/History_HD
 #EXTINF:-1 group-title="国际",FOX
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="国际",FOX
-http://streamer.crimea-tv.net/FOX_HD/video.m3u8?token=9d3cc59e
 #EXTINF:-1 group-title="国际",FOX Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",FOX Comedy
@@ -142,9 +120,9 @@ https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="国际",IFC USA
 https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="国际",Animax
-http://61.219.170.95:18548/.m3u8
+http://61.219.170.95:18550/http/192.168.1.9:8081/hls/70/812/ch39.m3u8
 #EXTINF:-1 group-title="国际",Animax
-https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+http://61.219.170.95:18548/.m3u8
 #EXTINF:-1 group-title="国际",Baby First
 http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="国际",Baby TV
@@ -155,8 +133,6 @@ https://d3b3ksvejgbmas.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/vice.us.m3u8
 #EXTINF:-1 group-title="国际",VICE
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="国际",MTV
-http://61.222.202.191/gt/gttv.php?id=14166&cid=14326
 #EXTINF:-1 group-title="国际",MTV
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="国际",MTV
@@ -177,22 +153,10 @@ http://194.76.186.151:20003/play/AXN_Black
 http://194.76.186.151:20003/play/AXN_White
 #EXTINF:-1 group-title="国际",Disney Channel
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/disney.eastern.us.m3u8
-#EXTINF:-1 group-title="国际",Disney Channel
-http://194.76.186.151:20003/play/Disney_Channel_HD
 #EXTINF:-1 group-title="国际",Disney XD
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/disney.xd.usa.eastern.us.m3u8
-#EXTINF:-1 group-title="国际",Disney XD
-http://194.76.186.151:20003/play/Disney_XD
 #EXTINF:-1 group-title="国际",Disney Junior
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/disney.junior.usa.east.us.m3u8
-#EXTINF:-1 group-title="国际",Disney Junior
-http://194.76.186.151:20013/play/Disney_Junior
-#EXTINF:-1 group-title="国际",Cartoon Network
-http://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",Cartoon Network
-http://194.76.186.151:20013/play/Cartoon_Networ_HD
-#EXTINF:-1 group-title="国际",Cartoon Network
-http://103.55.144.46:80/hls/cn.m3u8
 #EXTINF:-1 group-title="国际",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯
@@ -226,8 +190,6 @@ https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 group-title="港台",ViuTV Six
 https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 group-title="港台",HBO
-http://114.34.191.36:8557/.m3u8
-#EXTINF:-1 group-title="港台",HBO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="港台",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
@@ -247,8 +209,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAXUP.smil/playlist.m3u8
 #EXTINF:-1 group-title="港台",HBO XTREME
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
-#EXTINF:-1 group-title="港台",HBO亚洲
-http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 #EXTINF:-1 group-title="港台",HBO亚洲
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="港台",HBO家庭
@@ -330,8 +290,6 @@ http://114.34.191.36:8518/.m3u8
 #EXTINF:-1 group-title="港台",纬来综合
 http://61.219.170.95:18540/.m3u8
 #EXTINF:-1 group-title="港台",纬来戏剧
-http://114.34.191.36:8533/.m3u8
-#EXTINF:-1 group-title="港台",纬来戏剧
 http://61.219.170.95:18557/.m3u8
 #EXTINF:-1 group-title="港台",纬来精彩
 http://50.7.220.74:8278/videolandspecial_twn/playlist.m3u8?tid=m7ad330f1250511190882&ct=17889&tsum=028edd32d84c9810f126c7167897858a
@@ -364,9 +322,9 @@ http://61.219.170.95:18600/.m3u8
 #EXTINF:-1 group-title="港台",龙华卡通
 http://60.249.146.250:8517/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华日韩
-http://114.34.191.36:8535/.m3u8
+http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
 #EXTINF:-1 group-title="港台",龙华偶像
-http://114.34.191.36:8536/.m3u8
+http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
 #EXTINF:-1 group-title="港台",龙华戏剧
 http://114.34.191.36:8534/.m3u8
 #EXTINF:-1 group-title="港台",龙华经典
@@ -408,11 +366,9 @@ http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de
 #EXTINF:-1 group-title="港台",中视菁采台
 http://iptv12k.com:35461/live/8032022060101/452381/1273.m3u8
 #EXTINF:-1 group-title="港台",卫视中文台
-http://59.125.101.187:8810/http/192.168.77.24:8081/hls/62/804/ch05.m3u8
+http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
 #EXTINF:-1 group-title="港台",卫视电影
-http://114.34.191.36:8553/.m3u8
-#EXTINF:-1 group-title="港台",卫视电影
-http://59.125.101.187:8845/http/192.168.77.24:8081/hls/62/804/ch07.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 #EXTINF:-1 group-title="港台",霹雳台湾
 http://211.23.114.106:11505/http/60.251.39.91:8081/hls/75/817/ch59.m3u8
 #EXTINF:-1 group-title="港台",JET综合
