@@ -246,8 +246,6 @@ http://114.34.191.36:8524/.m3u8
 #EXTINF:-1 group-title="港台",东森综合
 http://59.125.101.187:8824/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
 #EXTINF:-1 group-title="港台",东森超视
-http://114.34.191.36:8525/.m3u8
-#EXTINF:-1 group-title="港台",东森超视
 http://61.219.170.95:18555/.m3u8
 #EXTINF:-1 group-title="港台",东森电影
 http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
@@ -286,15 +284,11 @@ http://61.222.202.191/gt/gttv.php?id=15134&cid=15297
 #EXTINF:-1 group-title="港台",TVBS-G欢乐
 http://61.222.202.191/gt/gttv.php?id=15133&cid=15296
 #EXTINF:-1 group-title="港台",纬来综合
-http://114.34.191.36:8518/.m3u8
-#EXTINF:-1 group-title="港台",纬来综合
 http://61.219.170.95:18540/.m3u8
 #EXTINF:-1 group-title="港台",纬来戏剧
 http://61.219.170.95:18557/.m3u8
 #EXTINF:-1 group-title="港台",纬来精彩
 http://50.7.220.74:8278/videolandspecial_twn/playlist.m3u8?tid=m7ad330f1250511190882&ct=17889&tsum=028edd32d84c9810f126c7167897858a
-#EXTINF:-1 group-title="港台",纬来日本
-http://114.34.191.36:8537/.m3u8
 #EXTINF:-1 group-title="港台",纬来日本
 http://61.219.170.95:18524/.m3u8
 #EXTINF:-1 group-title="港台",纬来日本
@@ -306,17 +300,11 @@ http://59.125.101.187:8810/http/192.168.77.24:8081/hls/69/811/ch35.m3u8
 #EXTINF:-1 group-title="港台",纬来电影
 http://59.125.101.187:10710/playlist.m3u8
 #EXTINF:-1 group-title="港台",纬来育乐
-http://114.34.191.36:8562/.m3u8
-#EXTINF:-1 group-title="港台",纬来育乐
 http://61.219.170.95:18541/.m3u8
 #EXTINF:-1 group-title="港台",纬来体育
 http://114.34.191.36:8563/.m3u8
 #EXTINF:-1 group-title="港台",龙华电影
-http://114.34.191.36:8556/.m3u8
-#EXTINF:-1 group-title="港台",龙华电影
 http://61.219.170.95:18574/.m3u8
-#EXTINF:-1 group-title="港台",龙华卡通
-http://114.34.191.36:8517/.m3u8
 #EXTINF:-1 group-title="港台",龙华卡通
 http://61.219.170.95:18600/.m3u8
 #EXTINF:-1 group-title="港台",龙华卡通
@@ -347,8 +335,6 @@ http://114.34.191.36:8504/.m3u8
 http://114.34.191.36:8503/.m3u8
 #EXTINF:-1 group-title="港台",中视
 http://114.34.191.36:8502/.m3u8
-#EXTINF:-1 group-title="港台",台视
-http://61.219.170.95:18543/.m3u8
 #EXTINF:-1 group-title="港台",台视
 http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 #EXTINF:-1 group-title="港台",公视
