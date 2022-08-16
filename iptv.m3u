@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",CNN
-https://315f9c42eaf242e99c5a1007999d2d8e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_CNN/playlist.m3u8
+https://a1a8ed5e13cf415eb687cf44e87b0c95.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_CNN/playlist.m3u8
 #EXTINF:-1 group-title="国际",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",CNN
-https://a1a8ed5e13cf415eb687cf44e87b0c95.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_CNN/playlist.m3u8
+https://315f9c42eaf242e99c5a1007999d2d8e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_CNN/playlist.m3u8
 #EXTINF:-1 group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",BBC
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="国际",BBC
+#EXTINF:-1 group-title="国际",BBC AMERICA
 http://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="国际",Reuters
 https://e6c161a2065f471aaf3136462778a6da.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ReutersNow/playlist.m3u8
@@ -55,28 +55,12 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="国际",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN
-http://45.232.208.14:6001/play/a01m/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN
-http://45.232.208.14:6001/play/a00t/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN 2
-http://45.232.208.14:6001/play/a01f/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN 3
-http://45.232.208.14:6001/play/a01u/index.m3u8
 #EXTINF:-1 group-title="国际",NBA
 http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
 #EXTINF:-1 group-title="国际",NBA
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nba.tv.usa.us.m3u8
-#EXTINF:-1 group-title="国际",NBA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",FOX SPORTS 1
-http://45.232.208.14:6001/play/a012/index.m3u8
-#EXTINF:-1 group-title="国际",FOX SPORTS 1
+#EXTINF:-1 group-title="国际",FOX SPORTS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 group-title="国际",FOX SPORTS 2
-http://45.232.208.14:6001/play/a00q/index.m3u8
-#EXTINF:-1 group-title="国际",FOX SPORTS 3
-http://45.232.208.14:6001/play/a01v/index.m3u8
 #EXTINF:-1 group-title="国际",USA TODAY SPORTS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaysports-plex/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩国 KBS
@@ -87,32 +71,24 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩国 SBS
 https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8
-#EXTINF:-1 group-title="国际",韩国 SBS Plus
-http://itskoi.dothome.co.kr/sbs.php?id=S03
-#EXTINF:-1 group-title="国际",韩国-MBC
+#EXTINF:-1 group-title="国际",韩国 MBC
 https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8
-#EXTINF:-1 group-title="国际",韩国-Arirang
+#EXTINF:-1 group-title="国际",韩国 Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="国际",日本-NEWS24
+#EXTINF:-1 group-title="国际",日本 NEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="国际",日本-NHK中文
+#EXTINF:-1 group-title="国际",日本 NHK中文
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="国际",日本-NHK World
+#EXTINF:-1 group-title="国际",日本 NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="国际",国家地理
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="国际",国家地理野生
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="国际",动物星球
-http://45.232.208.14:6001/play/a00g/index.m3u8
-#EXTINF:-1 group-title="国际",动物星球
 http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",探索发现
-http://45.232.208.14:6001/play/a011/index.m3u8
-#EXTINF:-1 group-title="国际",探索发现
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="国际",探索发现
-http://103.55.144.46/hls/discovery.m3u8
 #EXTINF:-1 group-title="国际",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="国际",NASA TV Media
@@ -123,12 +99,6 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/history.chan
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="国际",FOX Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",FOX Comedy
-http://194.76.186.151:20001/play/Fox_Comedy_HD
-#EXTINF:-1 group-title="国际",A&E
-http://45.232.208.14:6001/play/a019/index.m3u8
-#EXTINF:-1 group-title="国际",AMC
-http://45.232.208.14:6001/play/a009/index.m3u8
 #EXTINF:-1 group-title="国际",AMC+
 http://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 group-title="国际",AMC East
@@ -159,8 +129,6 @@ https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://45.232.208.14:6001/play/a00z/index.m3u8
 #EXTINF:-1 group-title="国际",MTV
 http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
-#EXTINF:-1 group-title="国际",MTV LIVE
-http://45.232.208.14:6001/play/a00o/index.m3u8
 #EXTINF:-1 group-title="国际",MTV-YO
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 #EXTINF:-1 group-title="国际",MTV-BiggestPOP
@@ -170,23 +138,17 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.
 #EXTINF:-1 group-title="国际",MTV-WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
 #EXTINF:-1 group-title="国际",AXN HD
-http://45.232.208.14:6001/play/a01c/index.m3u8
-#EXTINF:-1 group-title="国际",AXN HD
 http://59.125.101.187:8859/http/192.168.77.24:8081/hls/71/813/ch43.m3u8
 #EXTINF:-1 group-title="国际",AXN Black
 http://194.76.186.151:20003/play/AXN_Black
 #EXTINF:-1 group-title="国际",AXN White
 http://194.76.186.151:20003/play/AXN_White
 #EXTINF:-1 group-title="国际",Disney Channel
-http://45.232.208.14:6001/play/a01r/index.m3u8
-#EXTINF:-1 group-title="国际",Disney Channel
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/disney.eastern.us.m3u8
 #EXTINF:-1 group-title="国际",Disney XD
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/disney.xd.usa.eastern.us.m3u8
 #EXTINF:-1 group-title="国际",Disney Junior
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/disney.junior.usa.east.us.m3u8
-#EXTINF:-1 group-title="国际",Cartoon Network
-http://45.232.208.14:6001/play/a00c/index.m3u8
 #EXTINF:-1 group-title="国际",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯
@@ -220,8 +182,6 @@ https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 group-title="港台",ViuTV Six
 https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 group-title="港台",HBO
-http://45.232.208.14:6001/play/a00h/index.m3u8
-#EXTINF:-1 group-title="港台",HBO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="港台",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
@@ -238,11 +198,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/
 #EXTINF:-1 group-title="港台",HBO EAST USA
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="港台",HBO POP
-http://45.232.208.14:6001/play/a01g/index.m3u8
-#EXTINF:-1 group-title="港台",HBO POP
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAXUP.smil/playlist.m3u8
-#EXTINF:-1 group-title="港台",HBO XTREME
-http://45.232.208.14:6001/play/a015/index.m3u8
 #EXTINF:-1 group-title="港台",HBO XTREME
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="港台",HBO亚洲
