@@ -174,7 +174,7 @@ https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/53240
 #EXTINF:-1 group-title="港台",TVB J1
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 group-title="港台",RTHK31
-https://cdn.hklive.tv/xxxx/96/index.m3u8
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="港台",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 group-title="港台",ViuTV
@@ -298,7 +298,7 @@ http://59.125.101.187:8810/http/192.168.77.24:8081/hls/69/811/ch35.m3u8
 #EXTINF:-1 group-title="港台",纬来电影
 http://59.125.101.187:10710/playlist.m3u8
 #EXTINF:-1 group-title="港台",纬来育乐
-http://61.219.170.95:18541/.m3u8
+http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch08.m3u8
 #EXTINF:-1 group-title="港台",纬来体育
 http://114.34.191.36:8563/.m3u8
 #EXTINF:-1 group-title="港台",龙华电影
@@ -770,8 +770,6 @@ http://39.134.65.175/PLTV/88888888/224/3221225503/1.m3u8
 #EXTINF:-1 group-title="国内",江苏卫视
 http://140.207.241.3:8080/live/program/live/jswshd/4000000/d1.m3u8
 #EXTINF:-1 group-title="国内",浙江卫视
-http://111.12.101.22:6610/PLTV/77777777/224/3221226022/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="国内",浙江卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
 #EXTINF:-1 group-title="国内",浙江卫视
 http://111.40.196.9/PLTV/88888888/224/3221225538/index.m3u8
@@ -1075,3 +1073,33 @@ http://39.134.65.166/PLTV/88888888/224/3221225839/1.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225582/1.m3u8
 #EXTINF:-1 group-title="国内",新疆卫视
 http://140.207.241.3:8080/live/program/live/xjws/1300000/d1.m3u8
+#EXTINF:-1 group-title="直播",实时中国空间站神舟十四
+https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/381006/live_4938699_3694049.m3u8?cdn=cn-gotcha01&expires=1660286673&len=0&oi=3746136779&pt=h5&qn=10000&trid=10036a9c6f93252546e7bb33e8fbe9753eee&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=87ad6b553514f6c3cdeeb94466ad70d6&ptype=0&src=57345&sl=1&source=one&sche=ban&sid=6871&sk=f431fc494304659efcff9c2c8720e174&order=4
+#EXTINF:-1 group-title="直播",SpaceX星舰基地
+https://cn-fjqz-cmcc-v-08.bilivideo.com/live-bvc/869402/live_13945088_2879895.m3u8?cdn=cn-gotcha01&expires=1660286262&len=0&oi=3746136779&pt=h5&qn=10000&trid=100309591538062e4de8a0b8c19cbb06a212&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=2baa430153b367b5714fb24ef03cab70&ptype=0&src=57345&sl=1&source=one&sche=ban&sid=19108&sk=7f2c67aa3c4ffd78836897e8aa0984ed&order=4
+#EXTINF:-1 group-title="直播",微软模拟飞行
+http://tc-tct.douyucdn2.cn/dyliveflv3a/2240445rT5qekpPS.flv?wsAuth=e7a047b37c66b3c508ee2a518552e113&token=cpn-androidmpro-0-2240445-ed8e071fbebef931ffefebc689d9ed8cf63c7e7adc6c8df5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+#EXTINF:-1 group-title="直播",直播中国
+http://gccncc.v.wscdns.com/gc/jsh02_1/index.m3u8?BR=md&ion=shanghai
+#EXTINF:-1 group-title="直播",实时天气
+https://cn-fjqz-cmcc-v-07.bilivideo.com/live-bvc/747789/live_403770121_1466141.m3u8?cdn=cn-gotcha01&expires=1660286545&len=0&oi=3746136779&pt=h5&qn=10000&trid=1003717db831535949348be498608a9e2115&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=6316bdaf81b1dc073dbacd89faa0467e&ptype=0&src=57345&sl=1&source=one&sche=ban&sid=19107&sk=81aa632c6059c27adf9913f9ea4464c0&order=4
+#EXTINF:-1 group-title="直播",地震速报实时
+https://cn-fjqz-cmcc-live-01.bilivideo.com/live-bvc/731309/live_18200769_73809732.m3u8?cdn=cn-gotcha01&expires=1660286374&len=0&oi=3746136779&pt=h5&qn=10000&trid=10033847c91d97284ad1b3bc9603a9872d40&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=dc6b8cac82168b2466d2728b2088d65f&ptype=0&src=57345&sl=1&source=one&sche=ban&sid=6482&sk=c0a6688729b41cfb1574c4d04d3a9c1b&order=4
+#EXTINF:-1 group-title="直播",上海大观园
+https://cn-fjqz-cmcc-live-01.bilivideo.com/live-bvc/485040/live_1734486597_74926472.m3u8?cdn=cn-gotcha01&expires=1660286307&len=0&oi=3746136779&pt=h5&qn=10000&trid=1003c40275d61ccd42aaa7021027d2f5eabf&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=9a5d46da854d3bf64742674bb993e922&ptype=0&src=57345&sl=1&source=one&sche=ban&sid=6482&sk=1e51654bcf52ab9d0735b996be2cc55c&order=4
+#EXTINF:-1 group-title="直播",浙江温岭石塘金沙滩景区
+https://cn-gdst-cmcc-live-01.bilivideo.com/live-bvc/537665/live_1989968591_66176291.m3u8?cdn=cn-gotcha01&expires=1660286283&len=0&oi=3746136779&pt=h5&qn=10000&trid=1003711caf3d628043e2bad05d956c32a4a1&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=cb1a2fa6fb564b4374935eb17dc3d883&ptype=0&src=57345&sl=1&source=one&sche=ban&sid=6870&sk=b1090c495466a9bed65645031a39ed60&order=4
+#EXTINF:-1 group-title="直播",湖南张家界水绕四门
+http://gcksc.v.kcdnvip.com/gc/zjjsrsm_1/index.m3u8?BR=md&ion=shanghai
+#EXTINF:-1 group-title="直播",南宁南湖公园
+https://cn-fjqz-cmcc-live-01.bilivideo.com/live-bvc/132365/live_517141898_89057016.m3u8?cdn=cn-gotcha01&expires=1660286348&len=0&oi=3746136779&pt=h5&qn=10000&trid=1003c50df99b27d547b087f95971c19c4eca&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=fc87f288eef3e4e939ed8c282758850e&ptype=0&src=57345&sl=1&source=one&sche=ban&sid=6482&sk=2bd2a94c23667b61832c3f29688559df&order=4
+#EXTINF:-1 group-title="直播",斗鱼4K
+http://tc-tct.douyucdn2.cn/dyliveflv3a/9970646rpnnPp1AN.flv?wsAuth=db91e1b3f10507f54a9d535dd05cee25&token=cpn-androidmpro-0-9970646-cc24b81228a15d47bfc390aa17034fc28483dbc63990579d&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+#EXTINF:-1 group-title="直播",王者荣耀官方赛事
+http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl_2000.flv?wsAuth=a56b0fcfd3ab0c71f19027b136c5f1ce&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18dcbcf4a3deb3229032b1b910b6bf4c6bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2s
+#EXTINF:-1 group-title="直播",斗鱼王者赛事
+http://tc-tct.douyucdn2.cn/dyliveflv1/3606468rECPIHkIH_2000.flv?wsAuth=64a5082af5a43acf62c6218fbb713d7a&token=cpn-androidmpro-0-3606468-febfaa921ec6c89a5b361505f4c37625e140caef66262279&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="直播",英雄联盟手游赛事
+http://tc-tct.douyucdn2.cn/dyliveflv1/33rZqq6arVHACVYX_2000.flv?wsAuth=d39885c3d99c6468862c1922a8f76e1e&token=cpn-androidmpro-0-33-d2a5a54b0137600215ffe7401d7d6ed8d284410fd1ffa2bd&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="直播",和平精英官方赛事
+http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=f7ec5c8705a5ae5f2f410bb564537f31&token=cpn-androidmpro-0-999-d32d75306aab2a79266a402f45bd1624d0d748273fbea472&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
