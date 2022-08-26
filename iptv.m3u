@@ -216,21 +216,21 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 #EXTINF:-1 group-title="港台",AXN
 http://59.125.122.90:18548/.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
-http://59.125.122.90:18512/.m3u8
+http://66.112.218.236:9500/live.m3u8?c=127
 #EXTINF:-1 group-title="港台",中天新闻
-http://59.125.122.90:18513/.m3u8
+http://66.112.218.236:9500/live.m3u8?c=125
 #EXTINF:-1 group-title="港台",民视新闻
-http://59.125.122.90:18563/.m3u8
+http://66.112.218.236:9500/live.m3u8?c=131
 #EXTINF:-1 group-title="港台",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+http://66.112.218.236:9500/live.m3u8?c=130
 #EXTINF:-1 group-title="港台",三立新闻
-https://ytb.52sf.ga/jmsytb.m3u8?c=17
+http://66.112.218.236:9500/live.m3u8?c=128
 #EXTINF:-1 group-title="港台",中视新闻
 https://ytb.52sf.ga/jmsytb.m3u8?c=8
 #EXTINF:-1 group-title="港台",华视新闻
 http://114.34.191.36:8538/.m3u8
 #EXTINF:-1 group-title="港台",TVBS新闻
-https://ytb.52sf.ga/jmsytb.m3u8?c=45
+http://66.112.218.236:9500/live.m3u8?c=126
 #EXTINF:-1 group-title="港台",寰宇新闻
 https://ytb.52sf.ga/jmsytb.m3u8?c=15
 #EXTINF:-1 group-title="港台",年代新闻
