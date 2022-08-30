@@ -84,11 +84,17 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="国际",日本 NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="国际",国家地理
+http://190.83.119.67:8000/play/a0t8/index.m3u8
+#EXTINF:-1 group-title="国际",国家地理
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="国际",国家地理野生
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="国际",动物星球
+http://190.83.119.67:8000/play/a0q4/index.m3u8
+#EXTINF:-1 group-title="国际",动物星球
 http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="国际",探索发现
+http://190.83.119.67:8000/play/a0tc/index.m3u8
 #EXTINF:-1 group-title="国际",探索发现
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",NASA TV Public
@@ -101,6 +107,8 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/history.chan
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="国际",FOX Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Warner HD
+http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1 group-title="国际",AMC+
 http://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 group-title="国际",AMC East
@@ -127,6 +135,8 @@ https://d3b3ksvejgbmas.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/vice.us.m3u8
 #EXTINF:-1 group-title="国际",VICE
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="国际",MTV
+http://103.105.213.251:8443/live/RX5KlkfmIvgPs3YnbTPDcw/1661926854/66.m3u8
 #EXTINF:-1 group-title="国际",MTV
 http://45.232.208.14:6001/play/a00z/index.m3u8
 #EXTINF:-1 group-title="国际",MTV
@@ -216,11 +226,11 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 #EXTINF:-1 group-title="港台",AXN
 http://59.125.122.90:18548/.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
-http://66.112.218.236:9500/live.m3u8?c=127
+http://173.211.42.73:8278/ettvnews/playlist.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
-http://66.112.218.236:9500/live.m3u8?c=125
+http://173.211.42.73:8278/ctinews/playlist.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
-http://66.112.218.236:9500/live.m3u8?c=131
+http://173.211.42.73:8278/ftvnew_taiwan/playlist.m3u8
 #EXTINF:-1 group-title="港台",台视新闻
 http://66.112.218.236:9500/live.m3u8?c=130
 #EXTINF:-1 group-title="港台",三立新闻
@@ -234,41 +244,27 @@ http://66.112.218.236:9500/live.m3u8?c=126
 #EXTINF:-1 group-title="港台",寰宇新闻
 https://ytb.52sf.ga/jmsytb.m3u8?c=15
 #EXTINF:-1 group-title="港台",年代新闻
-http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+http://173.211.42.73:8278/niandainews_twn/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森综合
-http://114.34.191.36:8524/.m3u8
-#EXTINF:-1 group-title="港台",东森综合
-http://59.125.101.187:8824/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+http://173.211.42.73:8278/ettvzhonghe/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森超视
-http://59.125.122.90:18555/.m3u8
+http://173.211.42.73:8278/ettvsuper/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森电影
-http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+http://173.211.42.73:8278/ettvmovie/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森洋片
-http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+http://173.211.42.73:8278/ettvwestern/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森戏剧
-http://114.34.191.36:8530/.m3u8
-#EXTINF:-1 group-title="港台",东森戏剧
-http://59.125.101.187:18740/playlist.m3u8
+http://173.211.42.73:8278/ettvdrama/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森财经
-https://ytb.52sf.ga/jmsytb.m3u8?c=12
+http://173.211.42.73:8278/ettvcaijing_twn/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森美洲
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",东森幼幼
-http://59.125.122.90:18508/.m3u8
-#EXTINF:-1 group-title="港台",东森幼幼
-http://114.34.191.36:8515/.m3u8
+http://173.211.42.73:8278/yoyo_twn/playlist.m3u8
 #EXTINF:-1 group-title="港台",中天综合
-http://114.34.191.36:8526/.m3u8
-#EXTINF:-1 group-title="港台",中天娱乐
-http://59.125.122.90:18521/.m3u8
-#EXTINF:-1 group-title="港台",中天娱乐
-http://114.34.191.36:8527/.m3u8
-#EXTINF:-1 group-title="港台",中天娱乐
-http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+http://173.211.42.73:8278/ctizhonghe/playlist.m3u8
 #EXTINF:-1 group-title="港台",中天亚洲
-https://wabc.ml/hlk.php?id=121
-#EXTINF:-1 group-title="港台",中天亚洲
-http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
+http://173.211.42.73:8278/ctiasia_twn/playlist.m3u8
 #EXTINF:-1 group-title="港台",TVBS
 http://tv.redrainl.site:9500/live.m3u8?c=25
 #EXTINF:-1 group-title="港台",TVBS亚洲
@@ -314,31 +310,37 @@ http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd128304
 #EXTINF:-1 group-title="港台",八大戏剧
 http://114.34.191.36:8531/.m3u8
 #EXTINF:-1 group-title="港台",八大综合
-http://59.125.122.90:18517/.m3u8
+http://173.211.42.73:8278/badazhonghe/playlist.m3u8
 #EXTINF:-1 group-title="港台",八大第一
-http://59.125.122.90:18539/.m3u8
+http://173.211.42.73:8278/badafirst/playlist.m3u8
 #EXTINF:-1 group-title="港台",八大娱乐
 http://50.7.220.74:8278/badaentertain/playlist.m3u8?tid=m6f7aed1b4260&ct=18335&tsum=fd808db00f6ca5c51dd3de7d3e214287
+#EXTINF:-1 group-title="港台",八大戏剧
+http://173.211.42.73:8278/badadrama/playlist.m3u8
+#EXTINF:-1 group-title="港台",三立综合
+http://173.211.42.73:8278/sanlizhonghe/playlist.m3u8
 #EXTINF:-1 group-title="港台",三立台湾
-http://114.34.191.36:8521/.m3u8
+http://173.211.42.73:8278/sanlitaiwan/playlist.m3u8
 #EXTINF:-1 group-title="港台",三立都会
 http://114.34.191.36:8522/.m3u8
+#EXTINF:-1 group-title="港台",三立戏剧
+http://173.211.42.73:8278/sanlixiju_twn/playlist.m3u8
 #EXTINF:-1 group-title="港台",民视
-http://114.34.191.36:8504/.m3u8
+http://173.211.42.73:8278/ftvhd_taiwan/playlist.m3u8
 #EXTINF:-1 group-title="港台",华视
-http://114.34.191.36:8503/.m3u8
+http://173.211.42.73:8278/ctshd_twn/playlist.m3u8
 #EXTINF:-1 group-title="港台",中视
 http://114.34.191.36:8502/.m3u8
 #EXTINF:-1 group-title="港台",台视
-http://59.125.122.90:18543/.m3u8
+http://173.211.42.73:8278/ttv_taiwan/playlist.m3u8
 #EXTINF:-1 group-title="港台",公视
-http://114.34.191.36:8505/.m3u8
+http://173.211.42.73:8278/ctv_taiwan/playlist.m3u8
 #EXTINF:-1 group-title="港台",台视综合
 http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
 #EXTINF:-1 group-title="港台",民视台湾台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/169
+http://173.211.42.73:8278/ftvtaiwan_twn/playlist.m3u8
 #EXTINF:-1 group-title="港台",民视第一台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/170
+http://173.211.42.73:8278/lunghuajingdian_twn/playlist.m3u8
 #EXTINF:-1 group-title="港台",中视经典
 http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 #EXTINF:-1 group-title="港台",中视经典
@@ -690,6 +692,8 @@ http://39.134.65.166/PLTV/88888888/224/3221225855/1.m3u8
 #EXTINF:-1 group-title="国内",北京卫视
 http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8
 #EXTINF:-1 group-title="国内",湖南卫视
+http://39.134.66.4/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 group-title="国内",湖南卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
 #EXTINF:-1 group-title="国内",湖南卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
@@ -1039,3 +1043,13 @@ https://cn-gdst-cmcc-live-01.bilivideo.com/live-bvc/537665/live_1989968591_66176
 http://gcksc.v.kcdnvip.com/gc/zjjsrsm_1/index.m3u8?BR=md&ion=shanghai
 #EXTINF:-1 group-title="直播",南宁南湖公园
 https://cn-fjqz-cmcc-live-01.bilivideo.com/live-bvc/132365/live_517141898_89057016.m3u8?cdn=cn-gotcha01&expires=1660286348&len=0&oi=3746136779&pt=h5&qn=10000&trid=1003c50df99b27d547b087f95971c19c4eca&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=fc87f288eef3e4e939ed8c282758850e&ptype=0&src=57345&sl=1&source=one&sche=ban&sid=6482&sk=2bd2a94c23667b61832c3f29688559df&order=4
+#EXTINF:-1 group-title="直播",北京古北水镇
+https://gccncc.v.wscdns.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 group-title="直播",港珠澳大桥
+https://gccncc.v.wscdns.com/gc/qdls04_1/index.m3u8
+#EXTINF:-1 group-title="直播",云南文山
+https://gccncc.v.wscdns.com/gc/wgw05_1/index.m3u8
+#EXTINF:-1 group-title="直播",北京海洋馆
+https://gccncc.v.wscdns.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 group-title="直播",广西梧州长洲岛
+https://gcalic.v.myalicdn.com/gc/cntv444-zbzg_1/index.m3u8
