@@ -1067,6 +1067,26 @@ https://gccncc.v.wscdns.com/gc/wgw05_1/index.m3u8
 https://gccncc.v.wscdns.com/gc/hkts03_1/index.m3u8
 #EXTINF:-1 group-title="直播",广西梧州长洲岛
 https://gcalic.v.myalicdn.com/gc/cntv444-zbzg_1/index.m3u8
+#EXTINF:-1 group-title="直播",上海这一刻：魔都眼
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+#EXTINF:-1 group-title="直播",上海这一刻：陆家嘴
+http://bililive.kksmg.com/hls/sdi70/playlist.m3u8
+#EXTINF:-1 group-title="直播",上海这一刻：外滩观光平台
+https://bililive.kksmg.com/hls/sdi30/playlist.m3u8
+#EXTINF:-1 group-title="直播",张家界天门山天门洞
+https://gccncc.v.wscdns.com/gc/tmstmd01_1/index.m3u8
+#EXTINF:-1 group-title="直播",华山
+https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1_md.m3u8
+#EXTINF:-1 group-title="直播",天津之眼
+https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
+#EXTINF:-1 group-title="直播",三亚南山海上观音
+https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
+#EXTINF:-1 group-title="直播",嵩山少林寺广场
+https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8
+#EXTINF:-1 group-title="直播",江西婺源
+https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
+#EXTINF:-1 group-title="直播",泰山主峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
 
 #EXTINF:-1 group-title="JAV",JUL-216
 https://siwazywcdn2.com:5278/zhongwenzimu/t2cjERlr/index.m3u8
@@ -2266,7 +2286,3 @@ https://siwazywcdn2.com:5278//yazhouwuma/tHC3xmBl/index.m3u8
 https://siwazywcdn2.com:5278//zhongwenzimu/71AKDJUw/index.m3u8
 #EXTINF:-1 group-title="JAV",RCTD-341
 https://siwazywcdn2.com:5278//zhongwenzimu/01l52txJ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD" tvg-logo="", SSNI-842
-https://www.googleapis.com/drive/v3/files/1zgfV9qNEYMSXGFYebzQJUaJxlpo7fTPy/?key=AIzaSyAvnhuY1JGNBIAtSuIMW4Safat1YBA-JRs&alt=media
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD" tvg-logo="", GNAX-008
-https://www.googleapis.com/drive/v3/files/1DlcKAR2TQ0PBmL6nk7YCrQD774vF6OQm/?key=AIzaSyAvnhuY1JGNBIAtSuIMW4Safat1YBA-JRs&alt=media
