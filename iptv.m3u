@@ -248,7 +248,11 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 #EXTINF:-1 group-title="港台",AXN
 http://59.125.122.90:18548/.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
+http://173.211.42.73:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
+#EXTINF:-1 group-title="港台",东森新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20289
+#EXTINF:-1 group-title="港台",中天新闻
+http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20369
 #EXTINF:-1 group-title="港台",中天新闻
@@ -257,8 +261,6 @@ https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20336
 #EXTINF:-1 group-title="港台",民视新闻
 https://epg.pm/stream/41a27760357d19c61969e35967cf5a18a3f850a75b00a1e2377ab2cc934a44d9.m3u8
-#EXTINF:-1 group-title="港台",台视新闻
-http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
 #EXTINF:-1 group-title="港台",台视新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20345
 #EXTINF:-1 group-title="港台",台视新闻
@@ -432,8 +434,6 @@ http://39.134.65.183/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1
 http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
-http://39.134.32.102:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="央视",CCTV-2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8
@@ -463,8 +463,6 @@ http://39.134.65.181/PLTV/88888888/224/3221225799/1.m3u8
 http://39.134.65.173/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3
 http://140.207.241.3:8080/live/program/live/cctv3hd/4000000/d1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4
-http://111.20.33.93/PLTV/88888893/224/3221226191/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4
@@ -665,8 +663,6 @@ http://39.134.65.183/PLTV/88888888/224/3221225812/1.m3u8
 http://39.134.65.175/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13
 http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-14
-http://111.59.63.32:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14
 http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14
