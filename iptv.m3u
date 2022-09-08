@@ -84,7 +84,11 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 #EXTINF:-1 group-title="国际",国家地理
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="国际",国家地理野生
+http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="国际",国家地理野生
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="国际",动物星球
+https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8?zgangd
 #EXTINF:-1 group-title="国际",动物星球
 http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",探索发现
@@ -272,9 +276,9 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20368
 #EXTINF:-1 group-title="港台",华视新闻
 https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv052&hd=720
 #EXTINF:-1 group-title="港台",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 #EXTINF:-1 group-title="港台",TVBS新闻
-https://4g.52sf.ga/channel.m3u8?fid=4gtv-live072&hd=720
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",TVBS新闻
 https://epg.pm/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d655991d3932f7e34d0.m3u8
 #EXTINF:-1 group-title="港台",寰宇新闻
