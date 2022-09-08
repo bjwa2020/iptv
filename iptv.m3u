@@ -82,6 +82,8 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="国际",日本 NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="国际",国家地理
+http://60.251.39.247:8502/http/192.168.77.24:8081/hls/61/803/ch01.m3u8
+#EXTINF:-1 group-title="国际",国家地理
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="国际",国家地理野生
 http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
@@ -92,7 +94,7 @@ https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.
 #EXTINF:-1 group-title="国际",动物星球
 http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",探索发现
-https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/discovery.channel.us.eastern.us.m3u8
+http://60.251.39.247:8501/http/192.168.77.24:8081/hls/71/813/ch44.m3u8
 #EXTINF:-1 group-title="国际",探索发现
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",NASA TV Public
@@ -250,7 +252,7 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906
 #EXTINF:-1 group-title="港台",HBO原创
 http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1 group-title="港台",AXN
-http://59.125.122.90:18548/.m3u8
+http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6162/index.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
 http://173.211.42.73:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 #EXTINF:-1 group-title="港台",东森新闻
@@ -262,9 +264,13 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20369
 #EXTINF:-1 group-title="港台",中天新闻
 https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40bcc9d7.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
-http://60.251.39.247:8504/123.253.32.125:9995/livestream/api/v1/long?channel_id=c20336
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="港台",民视新闻
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20336
 #EXTINF:-1 group-title="港台",民视新闻
 https://epg.pm/stream/41a27760357d19c61969e35967cf5a18a3f850a75b00a1e2377ab2cc934a44d9.m3u8
+#EXTINF:-1 group-title="港台",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",台视新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20345
 #EXTINF:-1 group-title="港台",台视新闻
