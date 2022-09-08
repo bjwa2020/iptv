@@ -172,7 +172,7 @@ https://d3b3ksvejgbmas.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="国际",VICE
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="国际",MTV
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mtv.usa.eastern.us.m3u8
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live025&hd=720
 #EXTINF:-1 group-title="国际",MTV
 http://103.105.213.251:8443/live/RX5KlkfmIvgPs3YnbTPDcw/1661926854/66.m3u8
 #EXTINF:-1 group-title="国际",MTV-YO
@@ -215,8 +215,12 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 group-title="港台",翡翠台2
 http://113.64.147.8:808/hls/67/index.m3u8
+#EXTINF:-1 group-title="港台",有线新闻台
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="港台",无线新闻台
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+http://live.cooltv.top/tv/tvb.php?id=0
+#EXTINF:-1 group-title="港台",无线财经台
+http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="港台",TVB J1
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 group-title="港台",RTHK31
@@ -240,55 +244,67 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 #EXTINF:-1 group-title="港台",AXN
 http://59.125.122.90:18548/.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
-http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20289
 #EXTINF:-1 group-title="港台",中天新闻
-http://173.211.42.73:8278/ctinews/playlist.m3u8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20369
+#EXTINF:-1 group-title="港台",中天新闻
+https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40bcc9d7.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
-http://173.211.42.73:8278/ftvnew_taiwan/playlist.m3u8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20336
+#EXTINF:-1 group-title="港台",民视新闻
+https://epg.pm/stream/41a27760357d19c61969e35967cf5a18a3f850a75b00a1e2377ab2cc934a44d9.m3u8
 #EXTINF:-1 group-title="港台",台视新闻
-http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20345
+#EXTINF:-1 group-title="港台",台视新闻
+https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
 #EXTINF:-1 group-title="港台",三立新闻
 http://66.112.218.236:9500/live.m3u8?c=128
 #EXTINF:-1 group-title="港台",中视新闻
-http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20368
 #EXTINF:-1 group-title="港台",华视新闻
-http://114.34.191.36:8538/.m3u8
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv052&hd=720
 #EXTINF:-1 group-title="港台",TVBS新闻
-http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="港台",TVBS新闻
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live072&hd=720
+#EXTINF:-1 group-title="港台",TVBS新闻
+https://epg.pm/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d655991d3932f7e34d0.m3u8
 #EXTINF:-1 group-title="港台",寰宇新闻
-https://ytb.52sf.ga/jmsytb.m3u8?c=15
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20310
+#EXTINF:-1 group-title="港台",寰宇新闻
+https://epg.pm/stream/4057a26433e36dbc3a39fd473ec099b70c118accf94777da98ad93480d9bcf4c.m3u8
 #EXTINF:-1 group-title="港台",年代新闻
-http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20337
 #EXTINF:-1 group-title="港台",东森综合
 http://173.211.42.73:8278/ettvzhonghe/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森超视
 http://173.211.42.73:8278/ettvsuper/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森电影
-http://173.211.42.73:8278/ettvmovie/playlist.m3u8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20296
 #EXTINF:-1 group-title="港台",东森洋片
-http://173.211.42.73:8278/ettvwestern/playlist.m3u8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20290
 #EXTINF:-1 group-title="港台",东森戏剧
-http://173.211.42.73:8278/ettvdrama/playlist.m3u8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20288
 #EXTINF:-1 group-title="港台",东森财经
-http://173.211.42.73:8278/ettvcaijing_twn/playlist.m3u8
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live019&hd=720
 #EXTINF:-1 group-title="港台",东森美洲
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",东森幼幼
-http://173.211.42.73:8278/yoyo_twn/playlist.m3u8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20291
 #EXTINF:-1 group-title="港台",中天综合
-http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20372
 #EXTINF:-1 group-title="港台",中天娱乐
-http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20371
 #EXTINF:-1 group-title="港台",中天亚洲
 http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
 #EXTINF:-1 group-title="港台",TVBS
-http://tv.redrainl.site:9500/live.m3u8?c=25
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv073&hd=720
 #EXTINF:-1 group-title="港台",TVBS亚洲
 http://tv.redrainl.site:9500/live.m3u8?c=25
 #EXTINF:-1 group-title="港台",TVBS精彩
-http://61.222.202.191/gt/gttv.php?id=15134&cid=15297
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live086&hd=720
 #EXTINF:-1 group-title="港台",TVBS-G欢乐
-http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv068&hd=720
 #EXTINF:-1 group-title="港台",纬来综合
 http://59.125.122.90:18540/.m3u8
 #EXTINF:-1 group-title="港台",纬来戏剧
@@ -310,47 +326,45 @@ http://59.125.122.90:18541/.m3u8
 #EXTINF:-1 group-title="港台",纬来体育
 http://114.34.191.36:8563/.m3u8
 #EXTINF:-1 group-title="港台",龙华电影
-http://59.125.122.90:18574/.m3u8
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn03&hd=720
 #EXTINF:-1 group-title="港台",龙华卡通
 http://59.125.122.90:18600/.m3u8
 #EXTINF:-1 group-title="港台",龙华卡通
 http://60.249.146.250:8517/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华日韩
-http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn11&hd=720
 #EXTINF:-1 group-title="港台",龙华偶像
 http://59.125.122.90:18573/.m3u8
 #EXTINF:-1 group-title="港台",龙华戏剧
-http://59.125.122.90:18507/.m3u8
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn18&hd=720
 #EXTINF:-1 group-title="港台",龙华经典
 http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 #EXTINF:-1 group-title="港台",八大戏剧
-http://114.34.191.36:8531/.m3u8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20274
 #EXTINF:-1 group-title="港台",八大综合
-http://173.211.42.73:8278/badazhonghe/playlist.m3u8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20276
 #EXTINF:-1 group-title="港台",八大第一
-http://173.211.42.73:8278/badafirst/playlist.m3u8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20273
 #EXTINF:-1 group-title="港台",八大娱乐
-http://50.7.220.74:8278/badaentertain/playlist.m3u8?tid=m6f7aed1b4260&ct=18335&tsum=fd808db00f6ca5c51dd3de7d3e214287
-#EXTINF:-1 group-title="港台",八大戏剧
-http://173.211.42.73:8278/badadrama/playlist.m3u8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20275
 #EXTINF:-1 group-title="港台",三立综合
-http://173.211.42.73:8278/sanlizhonghe/playlist.m3u8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20343
 #EXTINF:-1 group-title="港台",三立台湾
 http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 #EXTINF:-1 group-title="港台",三立都会
-http://114.34.191.36:8522/.m3u8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20339
 #EXTINF:-1 group-title="港台",三立戏剧
 http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 #EXTINF:-1 group-title="港台",民视
-http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20334
 #EXTINF:-1 group-title="港台",华视
 http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
 #EXTINF:-1 group-title="港台",中视
-http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20367
 #EXTINF:-1 group-title="港台",台视
 http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
 #EXTINF:-1 group-title="港台",公视
-http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20299
 #EXTINF:-1 group-title="港台",台视综合
 http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
 #EXTINF:-1 group-title="港台",民视台湾台
@@ -382,6 +396,8 @@ http://61.219.170.95:18558/.m3u8
 #EXTINF:-1 group-title="港台",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1
+http://111.20.33.70/PLTV/88888893/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-1
 http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1
 http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
@@ -410,6 +426,8 @@ http://39.134.65.183/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1
 http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
+http://111.20.33.70/PLTV/88888893/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-2
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
 http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
@@ -417,6 +435,8 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-3
+http://111.20.33.70/PLTV/88888893/224/3221226397/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3
 http://39.134.67.226/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3
@@ -436,11 +456,15 @@ http://39.134.65.173/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3
 http://140.207.241.3:8080/live/program/live/cctv3hd/4000000/d1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4
+http://111.20.33.70/PLTV/88888893/224/3221226223/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-4
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4
 http://111.20.33.93/PLTV/88888893/224/3221226223/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5
+http://111.20.33.70/PLTV/88888893/224/3221226395/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233115/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5
@@ -470,6 +494,8 @@ http://39.134.65.179/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5
 http://39.134.65.181/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+
+http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5+
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+
 http://117.148.179.136/PLTV/88888888/224/3221231459/1.m3u8
@@ -492,6 +518,8 @@ http://39.134.65.162/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+
 http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/d1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-6
+http://111.20.33.70/PLTV/88888893/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-6
 http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-6
 http://39.134.65.181/PLTV/88888888/224/3221225814/1.m3u8
@@ -506,6 +534,8 @@ http://39.134.65.177/PLTV/88888888/224/3221225814/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-6
 http://140.207.241.3:8080/live/program/live/cctv6hd/4000000/d1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7
+http://111.20.33.70/PLTV/88888893/224/3221226192/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-7
 http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7
 http://39.135.138.58:18890/PLTV/88888888/224/3221225644/index.m3u8
@@ -517,6 +547,8 @@ http://39.134.65.179/PLTV/88888888/224/3221225671/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225671/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7
 http://39.134.65.181/PLTV/88888888/224/3221225671/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV-8
+http://111.20.33.70/PLTV/88888893/224/3221226012/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8
@@ -533,6 +565,8 @@ http://39.134.65.175/PLTV/88888888/224/3221225795/1.m3u8
 http://39.134.65.177/PLTV/88888888/224/3221225795/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8
 http://140.207.241.3:8080/live/program/live/cctv8hd/4000000/d1.m3u8
+#EXTINF:-1 group-title="央视",CCTV-9
+http://111.20.33.70/PLTV/88888893/224/3221226197/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231697/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9
@@ -552,6 +586,8 @@ http://39.134.65.183/PLTV/88888888/224/3221225676/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9
 http://39.134.65.173/PLTV/88888888/224/3221225676/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-10
+http://111.20.33.70/PLTV/88888893/224/3221226189/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-10
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231666/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-10
 http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8
@@ -570,6 +606,8 @@ http://39.134.65.183/PLTV/88888888/224/3221225677/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-10
 http://140.207.241.3:8080/live/program/live/cctv10hd/4000000/d1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-11
+http://111.20.33.70/PLTV/88888893/224/3221226240/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-11
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231711/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-11
 http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
@@ -583,6 +621,8 @@ http://39.134.65.173/PLTV/88888888/224/3221225517/1.m3u8
 http://39.134.65.183/PLTV/88888888/224/3221225517/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-11
 http://39.134.65.175/PLTV/88888888/224/3221225517/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV-12
+http://111.20.33.70/PLTV/88888893/224/3221226190/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-12
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231660/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-12
@@ -600,6 +640,8 @@ http://39.134.65.166/PLTV/88888888/224/3221225669/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-12
 http://39.134.65.173/PLTV/88888888/224/3221225669/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13
+http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-13
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231636/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13
 http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
@@ -615,6 +657,8 @@ http://39.134.65.183/PLTV/88888888/224/3221225812/1.m3u8
 http://39.134.65.175/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13
 http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV-14
+http://111.20.33.70/PLTV/88888893/224/3221226193/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14
 http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14
@@ -648,9 +692,13 @@ http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15
 http://39.134.65.162/PLTV/88888888/224/3221225513/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-16奥林匹克
+http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-16奥林匹克
 http://39.135.138.58:18890/PLTV/88888888/224/3221226230/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-16奥林匹克
 http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-17农业农村
+http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-17农业农村
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231772/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-17农业农村
@@ -686,6 +734,8 @@ http://39.134.65.166/PLTV/88888888/224/3221225509/1.m3u8
 #EXTINF:-1 group-title="央视",CGTN纪录
 http://39.134.65.162/PLTV/88888888/224/3221225509/1.m3u8
 #EXTINF:-1 group-title="国内",北京卫视
+http://111.20.33.70/PLTV/88888893/224/3221226222/index.m3u8
+#EXTINF:-1 group-title="国内",北京卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231732/index.m3u8
 #EXTINF:-1 group-title="国内",北京卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
@@ -706,6 +756,8 @@ http://39.134.65.166/PLTV/88888888/224/3221225855/1.m3u8
 #EXTINF:-1 group-title="国内",北京卫视
 http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8
 #EXTINF:-1 group-title="国内",湖南卫视
+http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8
+#EXTINF:-1 group-title="国内",湖南卫视
 http://39.134.66.4/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 group-title="国内",湖南卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
@@ -724,6 +776,8 @@ http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 group-title="国内",湖南卫视
 http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 group-title="国内",江苏卫视
+http://111.20.33.70/PLTV/88888893/224/3221226200/index.m3u8
+#EXTINF:-1 group-title="国内",江苏卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225702/index.m3u8
 #EXTINF:-1 group-title="国内",江苏卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225743/index.m3u8
@@ -741,6 +795,8 @@ http://39.134.65.183/PLTV/88888888/224/3221225503/1.m3u8
 http://39.134.65.175/PLTV/88888888/224/3221225503/1.m3u8
 #EXTINF:-1 group-title="国内",江苏卫视
 http://140.207.241.3:8080/live/program/live/jswshd/4000000/d1.m3u8
+#EXTINF:-1 group-title="国内",浙江卫视
+http://111.20.33.70/PLTV/88888893/224/3221226199/index.m3u8
 #EXTINF:-1 group-title="国内",浙江卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
 #EXTINF:-1 group-title="国内",浙江卫视
@@ -761,6 +817,8 @@ http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 #EXTINF:-1 group-title="国内",浙江卫视
 http://140.207.241.3:8080/live/program/live/zjwshd/4000000/d1.m3u8
+#EXTINF:-1 group-title="国内",东方卫视
+http://111.20.33.70/PLTV/88888893/224/3221226217/index.m3u8
 #EXTINF:-1 group-title="国内",东方卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
 #EXTINF:-1 group-title="国内",东方卫视
@@ -801,6 +859,8 @@ http://39.134.65.173/PLTV/88888888/224/3221225859/1.m3u8
 http://140.207.241.3:8080/live/program/live/gdwshd/4000000/d1.m3u8
 #EXTINF:-1 group-title="国内",广东卫视
 http://111.63.117.13:6060/030000001000/GDWS-HD/GDWS-HD.m3u8
+#EXTINF:-1 group-title="国内",深圳卫视
+http://111.20.33.70/PLTV/88888893/224/3221226205/index.m3u8
 #EXTINF:-1 group-title="国内",深圳卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225700/index.m3u8
 #EXTINF:-1 group-title="国内",深圳卫视
@@ -2286,3 +2346,43 @@ https://siwazywcdn2.com:5278//yazhouwuma/tHC3xmBl/index.m3u8
 https://siwazywcdn2.com:5278//zhongwenzimu/71AKDJUw/index.m3u8
 #EXTINF:-1 group-title="JAV",RCTD-341
 https://siwazywcdn2.com:5278//zhongwenzimu/01l52txJ/index.m3u8
+#EXTINF:-1 group-title="Playboy",Jasmin TV
+http://195.154.185.179/xx_jasmin_tv/index.m3u8
+#EXTINF:-1 group-title="Playboy",Men TV
+http://195.154.185.179/xx_fashion_tv/index.m3u8
+#EXTINF:-1 group-title="Playboy",Playboy TV
+http://195.154.185.179:80/xx_playboy_tv/index.m3u8
+#EXTINF:-1 group-title="Playboy",Hustler TV
+http://195.154.185.179:80/xx_hustler_tv/index.m3u8
+#EXTINF:-1 group-title="Playboy",Pink O TV
+http://195.154.185.179:80/xx_pink_o_tv/index.m3u8
+#EXTINF:-1 group-title="Playboy",O La La TV
+http://195.154.185.179:80/xx_o_la_la_tv/index.m3u8
+#EXTINF:-1 group-title="Playboy",Venus TV
+http://195.154.185.179:80/xx_venus_tv/index.m3u8
+#EXTINF:-1 group-title="Playboy",松視1歐美版
+http://live.redtraffic.xyz:80/fetish.m3u8
+#EXTINF:-1 group-title="Playboy",松視2歐美版
+http://live.redtraffic.xyz:80/interracial.m3u8
+#EXTINF:-1 group-title="Playboy",松視3歐美版
+http://live.redtraffic.xyz:80/bigtits.m3u8
+#EXTINF:-1 group-title="Playboy",松視4歐美版
+http://live.redtraffic.xyz:80/bigdick.m3u8
+#EXTINF:-1 group-title="Playboy",潘朵拉歐美版
+http://live.redtraffic.xyz:80/pornstar.m3u8
+#EXTINF:-1 group-title="Playboy",香蕉台歐美版
+http://live.redtraffic.xyz:80/milf.m3u8
+#EXTINF:-1 group-title="Playboy",K頻道歐美版
+http://live.redtraffic.xyz:80/threesome.m3u8
+#EXTINF:-1 group-title="Playboy",驚豔台歐美版
+http://live.redtraffic.xyz:80/cuckold.m3u8
+#EXTINF:-1 group-title="Playboy",HOT歐美版
+http://live.redtraffic.xyz:80/hardcore.m3u8
+#EXTINF:-1 group-title="Playboy",粉紅台歐美版
+http://live.redtraffic.xyz:80/teen.m3u8
+#EXTINF:-1 group-title="Playboy",玩美台歐美版
+http://live.redtraffic.xyz:80/pov.m3u8
+#EXTINF:-1 group-title="Playboy",二本道歐美版
+http://live.redtraffic.xyz:80/blowjob.m3u8
+#EXTINF:-1 group-title="Playboy",櫻花台歐美版
+http://live.redtraffic.xyz:80/russian.m3u8
