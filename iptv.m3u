@@ -10,6 +10,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 group-title="国际",CNN
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cnn.us.m3u8
 #EXTINF:-1 group-title="国际",BBC
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 group-title="国际",BBC
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",BBC AMERICA
 http://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
@@ -22,9 +24,13 @@ https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="国际",Reuters
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="国际",CNBC
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/cnbc.usa.us.m3u8
+#EXTINF:-1 group-title="国际",CNBC
 http://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",CBSN
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="国际",MSNBC
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/msnbc.usa.us.m3u8
 #EXTINF:-1 group-title="国际",FOX NEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",NBC NEWS
@@ -152,7 +158,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAXUP.smil/playlist
 #EXTINF:-1 group-title="国际",HBO XTREME
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",SYFY
-https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/syfy.eastern.us.m3u8
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/syfy.eastern.us.m3u8
 #EXTINF:-1 group-title="国际",AMC+
 http://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 group-title="国际",AMC East
@@ -178,7 +184,7 @@ https://d3b3ksvejgbmas.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="国际",VICE
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="国际",MTV
-https://4g.52sf.ga/channel.m3u8?fid=4gtv-live025&hd=720
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/mtv.usa.eastern.us.m3u8
 #EXTINF:-1 group-title="国际",MTV
 http://103.105.213.251:8443/live/RX5KlkfmIvgPs3YnbTPDcw/1661926854/66.m3u8
 #EXTINF:-1 group-title="国际",MTV-YO
@@ -196,11 +202,11 @@ http://194.76.186.151:20003/play/AXN_Black
 #EXTINF:-1 group-title="国际",AXN White
 http://194.76.186.151:20003/play/AXN_White
 #EXTINF:-1 group-title="国际",Disney Channel
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/disney.eastern.us.m3u8
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/disney.eastern.us.m3u8
 #EXTINF:-1 group-title="国际",Disney XD
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/disney.xd.usa.eastern.us.m3u8
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/disney.xd.usa.eastern.us.m3u8
 #EXTINF:-1 group-title="国际",Disney Junior
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/disney.junior.usa.east.us.m3u8
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/disney.junior.usa.east.us.m3u8
 #EXTINF:-1 group-title="国际",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯
