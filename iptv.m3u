@@ -264,11 +264,15 @@ http://173.211.42.73:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=192
 #EXTINF:-1 group-title="港台",东森新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20289
 #EXTINF:-1 group-title="港台",中天新闻
+http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian6382498.m3u8
+#EXTINF:-1 group-title="港台",中天新闻
 http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20369
 #EXTINF:-1 group-title="港台",中天新闻
 https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40bcc9d7.m3u8
+#EXTINF:-1 group-title="港台",民视新闻
+http://98.142.138.122:1634/zhiboyuandakaTV/mingshi9852740.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
@@ -282,7 +286,7 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20345
 #EXTINF:-1 group-title="港台",台视新闻
 https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
 #EXTINF:-1 group-title="港台",三立新闻
-http://60.251.39.247:8504/http/192.168.77.24:8081/hls/65/807/ch18.m3u8
+http://98.142.138.122:1636/zhiboyuandakaTV/sanli743729.m3u8
 #EXTINF:-1 group-title="港台",三立新闻
 http://66.112.218.236:9500/live.m3u8?c=128
 #EXTINF:-1 group-title="港台",中视新闻
@@ -334,7 +338,7 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20371
 #EXTINF:-1 group-title="港台",中天亚洲
 http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
 #EXTINF:-1 group-title="港台",TVBS
-https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv073&hd=720
+http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5636099579.m3u8
 #EXTINF:-1 group-title="港台",TVBS亚洲
 http://tv.redrainl.site:9500/live.m3u8?c=25
 #EXTINF:-1 group-title="港台",TVBS精彩
