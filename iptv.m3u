@@ -28,7 +28,7 @@ https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="国际",Reuters
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="国际",CNBC
-https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/cnbc.usa.us.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live130&hd=720
 #EXTINF:-1 group-title="国际",CNBC
 http://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",CBSN
@@ -186,7 +186,7 @@ https://d3b3ksvejgbmas.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="国际",VICE
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="国际",MTV
-https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/mtv.usa.eastern.us.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live025&hd=720
 #EXTINF:-1 group-title="国际",MTV
 http://103.105.213.251:8443/live/RX5KlkfmIvgPs3YnbTPDcw/1661926854/66.m3u8
 #EXTINF:-1 group-title="国际",MTV-YO
@@ -281,13 +281,13 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 #EXTINF:-1 group-title="港台",AXN
 http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6162/index.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
-http://173.211.42.73:8278/ctinews/playlist.m3u8?tid=MA4A1988185419881854&ct=19234&tsum=c813889a5aa08307ed2da85640a5280b
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live114&hd=720
 #EXTINF:-1 group-title="港台",东森新闻
 http://173.211.42.73:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 #EXTINF:-1 group-title="港台",东森新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20289
 #EXTINF:-1 group-title="港台",中天新闻
-http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian6382498.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv009&hd=720
 #EXTINF:-1 group-title="港台",中天新闻
 http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
@@ -295,7 +295,7 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20369
 #EXTINF:-1 group-title="港台",中天新闻
 https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40bcc9d7.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
-http://98.142.138.122:1634/zhiboyuandakaTV/mingshi9852740.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=litv-ftv13&hd=720
 #EXTINF:-1 group-title="港台",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
@@ -309,23 +309,23 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20345
 #EXTINF:-1 group-title="港台",台视新闻
 https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
 #EXTINF:-1 group-title="港台",三立新闻
-http://98.142.138.122:1636/zhiboyuandakaTV/sanli743729.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live089&hd=720
 #EXTINF:-1 group-title="港台",三立新闻
 http://66.112.218.236:9500/live.m3u8?c=128
 #EXTINF:-1 group-title="港台",中视新闻
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20368
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv074&hd=720
 #EXTINF:-1 group-title="港台",华视新闻
-https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv052&hd=720
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv052&hd=720
 #EXTINF:-1 group-title="港台",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live072&hd=720
 #EXTINF:-1 group-title="港台",TVBS新闻
 https://epg.pm/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d655991d3932f7e34d0.m3u8
+#EXTINF:-1 group-title="港台",寰宇新闻
+http://34.74.29.194:8080/channel.m3u8?fid=litv-longturn14&hd=720
 #EXTINF:-1 group-title="港台",寰宇新闻
 http://60.251.39.247:8504/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8
 #EXTINF:-1 group-title="港台",寰宇新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20310
-#EXTINF:-1 group-title="港台",寰宇新闻
-https://epg.pm/stream/4057a26433e36dbc3a39fd473ec099b70c118accf94777da98ad93480d9bcf4c.m3u8
 #EXTINF:-1 group-title="港台",年代新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20337
 #EXTINF:-1 group-title="港台",东森综合
@@ -341,7 +341,7 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20290
 #EXTINF:-1 group-title="港台",东森戏剧
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20288
 #EXTINF:-1 group-title="港台",东森财经
-http://pull-rtmp-l6.ixigua.com/live/d2f4fef52ebe59f9456a5294c8b63253.flv
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live019&hd=720
 #EXTINF:-1 group-title="港台",东森财经
 http://60.251.39.247:8504/http/192.168.77.24:8081/hls/64/806/ch14.m3u8
 #EXTINF:-1 group-title="港台",东森美洲
@@ -349,19 +349,19 @@ http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",东森幼幼
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20291
 #EXTINF:-1 group-title="港台",中天综合
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20372
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live033&hd=720
 #EXTINF:-1 group-title="港台",中天娱乐
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20371
 #EXTINF:-1 group-title="港台",中天亚洲
 http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
 #EXTINF:-1 group-title="港台",TVBS
-http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5636099579.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv073&hd=720
 #EXTINF:-1 group-title="港台",TVBS亚洲
 http://tv.redrainl.site:9500/live.m3u8?c=25
 #EXTINF:-1 group-title="港台",TVBS精彩
-https://4g.52sf.ga/channel.m3u8?fid=4gtv-live086&hd=720
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live086&hd=720
 #EXTINF:-1 group-title="港台",TVBS-G欢乐
-https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv068&hd=720
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv068&hd=720
 #EXTINF:-1 group-title="港台",纬来综合
 http://59.125.122.90:18540/.m3u8
 #EXTINF:-1 group-title="港台",纬来戏剧
@@ -381,29 +381,31 @@ http://59.125.122.90:18541/.m3u8
 #EXTINF:-1 group-title="港台",纬来体育
 http://60.251.39.247:8503/http/192.168.77.24:8081/hls/67/809/ch28.m3u8
 #EXTINF:-1 group-title="港台",龙华电影
-https://4g.52sf.ga/channel.m3u8?fid=litv-longturn03&hd=720
+http://34.74.29.194:8080/channel.m3u8?fid=litv-longturn03&hd=720
 #EXTINF:-1 group-title="港台",龙华卡通
 http://59.125.122.90:18600/.m3u8
 #EXTINF:-1 group-title="港台",龙华卡通
 http://60.249.146.250:8517/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华日韩
-http://60.251.39.247:8504/http/192.168.77.24:8066/hls/210/10011/cstv11.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=litv-longturn11&hd=720
 #EXTINF:-1 group-title="港台",龙华偶像
 http://60.251.39.247:8504/http/192.168.77.24:8066/hls/210/10012/cstv12.m3u8
 #EXTINF:-1 group-title="港台",龙华戏剧
-http://60.251.39.247:8504/http/192.168.77.24:8066/hls/210/10010/cstv10.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=litv-longturn18&hd=720
 #EXTINF:-1 group-title="港台",龙华经典
 http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+#EXTINF:-1 group-title="港台",八大精彩
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv034&hd=720
 #EXTINF:-1 group-title="港台",八大戏剧
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20274
 #EXTINF:-1 group-title="港台",八大综合
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20276
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv039&hd=720
 #EXTINF:-1 group-title="港台",八大第一
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20273
 #EXTINF:-1 group-title="港台",八大娱乐
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20275
 #EXTINF:-1 group-title="港台",三立综合
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20343
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live207&hd=720
 #EXTINF:-1 group-title="港台",三立台湾
 http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 #EXTINF:-1 group-title="港台",三立都会
@@ -411,11 +413,11 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20339
 #EXTINF:-1 group-title="港台",三立戏剧
 http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 #EXTINF:-1 group-title="港台",民视
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20334
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv002&hd=720
 #EXTINF:-1 group-title="港台",华视
-http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv041&hd=720
 #EXTINF:-1 group-title="港台",中视
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20367
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv040&hd=720
 #EXTINF:-1 group-title="港台",台视
 http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
 #EXTINF:-1 group-title="港台",公视
@@ -423,13 +425,13 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20299
 #EXTINF:-1 group-title="港台",台视综合
 http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
 #EXTINF:-1 group-title="港台",民视台湾台
-http://173.211.42.73:8278/ftvtaiwan_twn/playlist.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv001&hd=720
 #EXTINF:-1 group-title="港台",民视第一台
-http://173.211.42.73:8278/lunghuajingdian_twn/playlist.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv003&hd=720
 #EXTINF:-1 group-title="港台",中视经典
-http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv080&hd=720
 #EXTINF:-1 group-title="港台",中视菁采台
-http://iptv12k.com:35461/live/8032022060101/452381/1273.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv064&hd=720
 #EXTINF:-1 group-title="港台",卫视中文台
 http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
 #EXTINF:-1 group-title="港台",卫视电影
@@ -441,7 +443,7 @@ http://59.125.101.187:8719/playlist.m3u8
 #EXTINF:-1 group-title="港台",MOMO综合
 http://59.125.122.90:18576/.m3u8
 #EXTINF:-1 group-title="港台",MOMO亲子
-http://59.125.101.187:8810/http/192.168.77.24:8081/hls/70/812/ch40.m3u8
+http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live107&hd=720
 #EXTINF:-1 group-title="港台",东风37
 http://61.219.170.95:18560/.m3u8
 #EXTINF:-1 group-title="港台",年代MUCH
