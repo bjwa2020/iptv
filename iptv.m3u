@@ -281,7 +281,7 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 #EXTINF:-1 group-title="港台",AXN
 http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6162/index.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
-http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+http://173.211.42.73:8278/ctinews/playlist.m3u8?tid=MA4A1988185419881854&ct=19234&tsum=c813889a5aa08307ed2da85640a5280b
 #EXTINF:-1 group-title="港台",东森新闻
 http://173.211.42.73:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 #EXTINF:-1 group-title="港台",东森新闻
