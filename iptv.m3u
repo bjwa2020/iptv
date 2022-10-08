@@ -9,10 +9,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://105fd593241e4b2ba605a00dabebfe86.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_CNN/playlist.m3u8
 #EXTINF:-1 group-title="国际",CNN
 https://a1a8ed5e13cf415eb687cf44e87b0c95.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_CNN/playlist.m3u8
-#EXTINF:-1 group-title="国际",CNN
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cnn.us.m3u8
-#EXTINF:-1 group-title="国际",BBC
-http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="国际",BBC
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="国际",BBC AMERICA
@@ -28,12 +24,10 @@ https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="国际",Reuters
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="国际",CNBC
-http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live130&hd=720
-#EXTINF:-1 group-title="国际",CNBC
 http://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",CBSN
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 group-title="国际",MSNBC
+#EXTINF:-1 group-title="国际",MSNBC-
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/msnbc.usa.us.m3u8
 #EXTINF:-1 group-title="国际",FOX NEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -65,8 +59,6 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="国际",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="国际",NBA
-http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
 #EXTINF:-1 group-title="国际",NBA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",MLB Network
@@ -109,6 +101,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 #EXTINF:-1 group-title="国际",马来西亚 TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
+#EXTINF:-1 group-title="国际",印尼 ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 group-title="国际",国家地理
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="国际",国家地理野生
@@ -1136,6 +1130,61 @@ http://39.134.65.166/PLTV/88888888/224/3221225839/1.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225582/1.m3u8
 #EXTINF:-1 group-title="国内",新疆卫视
 http://140.207.241.3:8080/live/program/live/xjws/1300000/d1.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国第一季
+http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国第二季
+http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国第三季
+http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-江西
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-海南
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/ebc22b913d104ccfb153dc09850e0486/4000.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-上海
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/3e5279df88b44cb7933157330f967490/4000.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-黑龙江
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/1199803974fe4361980f8e764d94c607/4000.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-陕西
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/c698d3595f504fd09044e0b6615040f0/4000.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-新疆
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/611dfd08172c4e3082289d6d33db4df4/4000.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-江苏
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/b1e17e11d274467db1ace20e1534a953/4000.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-四川
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/9e9b2ec70cca4cdc917672cb1e44bb01/4000.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-福建
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8ba642c716404cf59a87f20ef9fc54a3/4000.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-广东
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/d907ef756138493e9fe5b35b4ab69642/4000.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-新疆
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-浙江
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c40caee6399e45daa7676b9a5e4116d5/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-甘肃
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4b79a3079e6f41fe98735763fa200101/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-内蒙古
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4c76529c9c434b38a9047daa000a7b90/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-云南
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dc534f3d3730442a8b50334424ec2c78/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-安徽
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/67c4d1c8265b45898a455f4dbaf17680/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-贵州
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/73c437874a0c447dbfe6d7467d4a6e64/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-山东
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0263fc1d530d4b25bbc9e0ede600c7e4/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-天津
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5f03d9f1684241f696b25a19ffc44145/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-山西
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4c0d9387b7514640bc9fceee79257be4/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-吉林
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ad1e94a68cb440fd98317cc3aa7f4f31/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-湖南
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-河北
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2f1976058d334d3b9e432de9e0ddc8e0/1200.m3u8
+#EXTINF:-1 group-title="纪录片",航拍中国-宁夏
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/1200.m3u8
+
 #EXTINF:-1 group-title="直播",实时中国空间站神舟十四
 https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/381006/live_4938699_3694049.m3u8?cdn=cn-gotcha01&expires=1660286673&len=0&oi=3746136779&pt=h5&qn=10000&trid=10036a9c6f93252546e7bb33e8fbe9753eee&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=87ad6b553514f6c3cdeeb94466ad70d6&ptype=0&src=57345&sl=1&source=one&sche=ban&sid=6871&sk=f431fc494304659efcff9c2c8720e174&order=4
 #EXTINF:-1 group-title="直播",SpaceX星舰基地
