@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",CNN
-https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tvplaylist.m3u8
-#EXTINF:-1 group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",CNN
-https://105fd593241e4b2ba605a00dabebfe86.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_CNN/playlist.m3u8
-#EXTINF:-1 group-title="国际",CNN
 https://a1a8ed5e13cf415eb687cf44e87b0c95.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_CNN/playlist.m3u8
+#EXTINF:-1 group-title="国际",CNN
+https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",BBC
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="国际",BBC
@@ -20,18 +16,16 @@ https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/62407
 #EXTINF:-1 group-title="国际",Reuters
 https://e6c161a2065f471aaf3136462778a6da.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ReutersNow/playlist.m3u8
 #EXTINF:-1 group-title="国际",Reuters
-https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="国际",Reuters
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="国际",Reuters
 https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
 #EXTINF:-1 group-title="国际",Reuters
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="国际",CNBC
+#EXTINF:-1 group-title="国际",-CNBC
 https://16live00.akamaized.net/CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",CBSN
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 group-title="国际",MSNBC
+#EXTINF:-1 group-title="国际",-MSNBC
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/msnbc.usa.us.m3u8
 #EXTINF:-1 group-title="国际",FOX NEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -51,8 +45,6 @@ https://newsmax-samsungus.amagi.tv/playlist.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 group-title="国际",ABC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_abcnewslive_001.m3u8
-#EXTINF:-1 group-title="国际",ABC NEWS
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="国际",Bloomberg
 https://bloomberg-bloombergtv-2-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Bloomberg
@@ -65,10 +57,20 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="国际",NBA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",MLB Network
-https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/mlb.network.us.m3u8
-#EXTINF:-1 group-title="国际",FOX SPORTS
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="国际",ESPN
+http://190.131.228.59:8000/play/a0g2/index.m3u8
+#EXTINF:-1 group-title="国际",ESPN 2
+http://190.131.228.59:8000/play/a0g4/index.m3u8
+#EXTINF:-1 group-title="国际",ESPN 3
+http://190.131.228.59:8000/play/a0g3/index.m3u8
+#EXTINF:-1 group-title="国际",Fox Sports
+http://190.131.228.59:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="国际",Fox Sports 2
+http://190.131.228.59:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="国际",Fox Sports 3
+http://190.131.228.59:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="国际",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="国际",USA TODAY SPORTS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaysports-plex/playlist.m3u8
 #EXTINF:-1 group-title="国际",法国 France 24
@@ -77,8 +79,6 @@ https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="国际",韩国-TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",韩国-TBS
-http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩国 SBS
 https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8
 #EXTINF:-1 group-title="国际",韩国 MBC
@@ -95,38 +95,24 @@ http://1.245.74.5:1935/live/tv/.m3u8
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 group-title="国际",日本 NEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="国际",日本 NHK中文
+#EXTINF:-1 group-title="国际",-日本 NHK中文
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="国际",日本 NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="国际",马来西亚 TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
-#EXTINF:-1 group-title="国际",马来西亚 TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
-#EXTINF:-1 group-title="国际",马来西亚 TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 #EXTINF:-1 group-title="国际",印尼 ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 group-title="国际",国家地理
+#EXTINF:-1 group-title="国际",-国家地理
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="国际",国家地理野生
-http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",国家地理野生
+#EXTINF:-1 group-title="国际",-国家地理野生
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="国际",动物星球
-https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8?zgangd
-#EXTINF:-1 group-title="国际",动物星球
-http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",探索发现
-https://vips-livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="国际",-动物星球
+http://190.131.228.59:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="国际",-探索发现
+http://190.131.228.59:8000/play/a0g9/index.m3u8
 #EXTINF:-1 group-title="国际",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="国际",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="国际",History
-https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/history.channel.us.east.us.m3u8
-#EXTINF:-1 group-title="国际",FOX
-https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="国际",FOX Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Warner HD
@@ -134,15 +120,21 @@ http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1 group-title="国际",HBO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",HBO
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+http://190.131.228.59:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="国际",HBO2
+http://190.131.228.59:8000/play/a08j/index.m3u8
 #EXTINF:-1 group-title="国际",HBO2
 https://tv4.live/api/stream/billypetty22@gmail.com/413397/livetv.epg/hbo.2.eastern.us.m3u8
 #EXTINF:-1 group-title="国际",HBO2
 https://tv4.live/api/stream/billypetty22@gmail.com/413397/livetv.epg/hbo.2.pacific.us.m3u8
 #EXTINF:-1 group-title="国际",HBO PLUS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_PLUS.smil/playlist.m3u8
+#EXTINF:-1 group-title="国际",HBO PLUS
+http://190.131.228.59:8000/play/a0ew/index.m3u8
 #EXTINF:-1 group-title="国际",HBO FAMILY
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_FAMILY.smil/playlist.m3u8
+#EXTINF:-1 group-title="国际",HBO FAMILY
+http://190.131.228.59:8000/play/a0ex/index.m3u8
 #EXTINF:-1 group-title="国际",HBO SIGNATURE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",HBO COMEDY
@@ -196,7 +188,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.
 #EXTINF:-1 group-title="国际",MTV-WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
 #EXTINF:-1 group-title="国际",AXN HD
-http://59.125.101.187:8859/http/192.168.77.24:8081/hls/71/813/ch43.m3u8
+http://190.131.228.59:8000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="国际",AXN Black
 http://194.76.186.151:20003/play/AXN_Black
 #EXTINF:-1 group-title="国际",AXN White
@@ -211,6 +203,8 @@ https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/disney.xd
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/disney.junior.usa.east.us.m3u8
 #EXTINF:-1 group-title="国际",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 group-title="国际",Cartoon Network
+http://190.131.228.59:8000/play/a0i4/index.m3u8
 #EXTINF:-1 group-title="国际",Duck TV
 https://mmm-ducktv-4-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",KidsFlix
@@ -222,26 +216,18 @@ https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
 
 #EXTINF:-1 group-title="港台",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港台",凤凰资讯
-http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港台",凤凰中文
-http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-#EXTINF:-1 group-title="港台",凤凰香港
+#EXTINF:-1 group-title="港台",-凤凰香港
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="港台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港台",翡翠台
-http://98.142.138.122:1633/zhiboyuandakaTV/tvbjade.m3u8
-#EXTINF:-1 group-title="港台",翡翠台
+#EXTINF:-1 group-title="港台",-翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 group-title="港台",翡翠台2
+#EXTINF:-1 group-title="港台",-翡翠台2
 http://113.64.147.8:808/hls/67/index.m3u8
-#EXTINF:-1 group-title="港台",有线新闻台
-http://98.142.138.122:1630/zhiboyuandakaTV/cable553607.m3u8
 #EXTINF:-1 group-title="港台",有线新闻台
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="港台",有线新闻财经台
@@ -277,7 +263,7 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906
 #EXTINF:-1 group-title="港台",HBO原创
 http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1 group-title="港台",AXN
-http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6162/index.m3u8
+http://190.131.228.59:8000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
 http://173.211.42.73:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 #EXTINF:-1 group-title="港台",东森新闻
@@ -289,13 +275,13 @@ http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20369
 #EXTINF:-1 group-title="港台",民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20336
 #EXTINF:-1 group-title="港台",民视新闻
 https://epg.pm/stream/41a27760357d19c61969e35967cf5a18a3f850a75b00a1e2377ab2cc934a44d9.m3u8
 #EXTINF:-1 group-title="港台",台视新闻
-http://98.142.138.122:1638/zhiboyuandakaTV/taishinews836673.m3u8
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",台视新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20345
 #EXTINF:-1 group-title="港台",三立新闻
@@ -305,7 +291,7 @@ http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv074&hd=720
 #EXTINF:-1 group-title="港台",华视新闻
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv052&hd=720
 #EXTINF:-1 group-title="港台",TVBS新闻
-http://98.142.138.122:1633/zhiboyuandakaTV/tvbs893986.m3u8
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",寰宇新闻
 http://60.251.39.247:8504/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8
 #EXTINF:-1 group-title="港台",寰宇新闻
@@ -319,15 +305,15 @@ http://60.251.39.247:8504/http/192.168.77.24:8081/hls/64/806/ch14.m3u8
 #EXTINF:-1 group-title="港台",东森超视
 http://173.211.42.73:8278/ettvsuper/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森电影
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20296
+http://120.84.96.74:808/hls/32/index.m3u8
 #EXTINF:-1 group-title="港台",东森洋片
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20290
+http://120.84.96.74:808/hls/33/index.m3u8
 #EXTINF:-1 group-title="港台",东森戏剧
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20288
 #EXTINF:-1 group-title="港台",东森财经
 http://60.251.39.247:8504/http/192.168.77.24:8081/hls/64/806/ch14.m3u8
 #EXTINF:-1 group-title="港台",东森美洲
-http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",东森幼幼
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20291
 #EXTINF:-1 group-title="港台",中天综合
@@ -433,6 +419,8 @@ http://61.219.170.95:18558/.m3u8
 #EXTINF:-1 group-title="港台",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv1/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV-1
 http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1
 http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
@@ -463,15 +451,17 @@ http://39.134.65.183/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1
 http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv2/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV-2
 http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-2
 http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-3
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv3/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3
 http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3
@@ -495,15 +485,13 @@ http://140.207.241.3:8080/live/program/live/cctv3hd/4000000/d1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4
-http://111.20.33.93/PLTV/88888893/224/3221226223/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv5/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5
 http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225755/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233115/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5
 http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5
@@ -529,13 +517,13 @@ http://39.134.65.179/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5
 http://39.134.65.181/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv05plus/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5+
 http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+
 http://39.135.138.58:18890/PLTV/88888888/224/3221225706/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+
 http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5+
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+
 http://117.148.179.136/PLTV/88888888/224/3221231459/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+
@@ -553,6 +541,8 @@ http://39.134.65.162/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+
 http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/d1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-6
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv6/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV-6
 http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-6
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225650/index.m3u8
@@ -569,6 +559,8 @@ http://39.134.65.177/PLTV/88888888/224/3221225814/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-6
 http://140.207.241.3:8080/live/program/live/cctv6hd/4000000/d1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv7/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV-7
 http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7
 http://39.135.138.58:18890/PLTV/88888888/224/3221225644/index.m3u8
@@ -582,6 +574,8 @@ http://39.134.65.179/PLTV/88888888/224/3221225671/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225671/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7
 http://39.134.65.181/PLTV/88888888/224/3221225671/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV-8
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv8/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8
@@ -600,6 +594,8 @@ http://39.134.65.175/PLTV/88888888/224/3221225795/1.m3u8
 http://39.134.65.177/PLTV/88888888/224/3221225795/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8
 http://140.207.241.3:8080/live/program/live/cctv8hd/4000000/d1.m3u8
+#EXTINF:-1 group-title="央视",CCTV-9
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv9/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9
 http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9
@@ -1288,6 +1284,28 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_no
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_wales_digital/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
 
+#EXTINF:-1 group-title="JAV",一本道1
+https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
+#EXTINF:-1 group-title="JAV",一本道2
+https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8?skipl=1
+#EXTINF:-1 group-title="JAV",一本道3
+https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8?skipl=1
+#EXTINF:-1 group-title="JAV",一本道4
+https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8?skipl=1
+#EXTINF:-1 group-title="JAV",一本道5
+https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8?skipl=1
+#EXTINF:-1 group-title="JAV",一本道6
+https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8?skipl=1
+#EXTINF:-1 group-title="JAV",一本道7
+https://vip4.ddyunbo.com/20210203/DYtc79vE/index.m3u8?skipl=1
+#EXTINF:-1 group-title="JAV",一本道8
+https://vip4.ddyunbo.com/20210202/cy0urBhD/index.m3u8?skipl=1
+#EXTINF:-1 group-title="JAV",一本道9
+https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
+#EXTINF:-1 group-title="JAV",一本道10
+https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+#EXTINF:-1 group-title="JAV",一本道11
+https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8?skipl=1
 #EXTINF:-1 group-title="JAV",JUL-216
 https://siwazywcdn2.com:5278/zhongwenzimu/t2cjERlr/index.m3u8
 #EXTINF:-1 group-title="JAV",DASD-665
