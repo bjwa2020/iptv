@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",CNN
+https://105fd593241e4b2ba605a00dabebfe86.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_CNN/playlist.m3u8?ads.wurl_channel=662&ads.wurl_name=CNN&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1
+#EXTINF:-1 group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",CNN
 https://a1a8ed5e13cf415eb687cf44e87b0c95.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_CNN/playlist.m3u8
@@ -13,6 +15,10 @@ http://w4.12all.tv:4000/play/bbc1/index.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 group-title="国际",BBC AMERICA
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="国际",Reuters
+https://reuters-reutersnow-2-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1
+#EXTINF:-1 group-title="国际",Reuters
+https://reuters-reutersnow-2-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Reuters
 https://e6c161a2065f471aaf3136462778a6da.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ReutersNow/playlist.m3u8
 #EXTINF:-1 group-title="国际",Reuters
@@ -105,10 +111,14 @@ http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="国际",-国家地理野生
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="国际",-动物星球
-http://190.131.228.59:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="国际",-探索发现
-http://190.131.228.59:8000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="国际",动物星球
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1
+#EXTINF:-1 group-title="国际",动物星球
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanetin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1
+#EXTINF:-1 group-title="国际",Discovery HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1
+#EXTINF:-1 group-title="国际",Discovery Kids
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1
 #EXTINF:-1 group-title="国际",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="国际",NASA TV Media
@@ -269,6 +279,8 @@ http://173.211.42.73:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=192
 #EXTINF:-1 group-title="港台",东森新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20289
 #EXTINF:-1 group-title="港台",中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1 group-title="港台",中天新闻
 http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian9839623.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
 http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
@@ -287,13 +299,17 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20345
 #EXTINF:-1 group-title="港台",三立新闻
 http://66.112.218.236:9500/live.m3u8?c=128
 #EXTINF:-1 group-title="港台",中视新闻
+http://tv.redrainl.site:9500/live.m3u8?c=02
+#EXTINF:-1 group-title="港台",中视新闻
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv074&hd=720
 #EXTINF:-1 group-title="港台",华视新闻
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv052&hd=720
 #EXTINF:-1 group-title="港台",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="港台",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",寰宇新闻
-http://60.251.39.247:8504/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8
+http://tv.redrainl.site:9500/live.m3u8?c=22
 #EXTINF:-1 group-title="港台",寰宇新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20310
 #EXTINF:-1 group-title="港台",年代新闻
@@ -323,9 +339,11 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20371
 #EXTINF:-1 group-title="港台",中天亚洲
 http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
 #EXTINF:-1 group-title="港台",TVBS
-http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv073&hd=720
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",TVBS亚洲
 http://tv.redrainl.site:9500/live.m3u8?c=25
+#EXTINF:-1 group-title="港台",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="港台",TVBS精彩
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live086&hd=720
 #EXTINF:-1 group-title="港台",TVBS-G欢乐
@@ -1185,10 +1203,30 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2f1976058d334d3b9e
 #EXTINF:-1 group-title="纪录片",航拍中国-宁夏
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/1200.m3u8
 
-#EXTINF:-1 group-title="直播",实时中国空间站神舟十四
-https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/381006/live_4938699_3694049.m3u8?cdn=cn-gotcha01&expires=1660286673&len=0&oi=3746136779&pt=h5&qn=10000&trid=10036a9c6f93252546e7bb33e8fbe9753eee&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=87ad6b553514f6c3cdeeb94466ad70d6&ptype=0&src=57345&sl=1&source=one&sche=ban&sid=6871&sk=f431fc494304659efcff9c2c8720e174&order=4
-#EXTINF:-1 group-title="直播",SpaceX星舰基地
-http://tc-tct.douyucdn2.cn/dyliveflv3/317038rTLhOFZLty.flv?wsAuth=a5d3431a5f473b64df7144870b8c351c&token=cpn-androidmpro-0-317038-bccdc9cfdb03ae94857d55b0103e0148f51f2bd730cfc7d1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 group-title="直播",BTV冬奥记实际-8KSDR源
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+#EXTINF:-1 group-title="直播",BTV纪实科教-8KSDR源
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+#EXTINF:-1 group-title="直播",CCTV16-4K-SDR源
+http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 group-title="直播",CCTV16-4K-HLG源
+http://27.36.62.163:9090/live/4010.m3u8
+#EXTINF:-1 group-title="直播",CCTV4K-25P-HLG源
+http://159.75.85.63:8280/cctv4k.php
+#EXTINF:-1 group-title="直播",咪咕体育-4K-HLG源
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1 group-title="直播",Sky Sport UHD
+http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 group-title="直播",Billiards TV
+https://newidco-billiardstv-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1
+#EXTINF:-1 group-title="直播",Ondemand China
+https://newidco-ondemandchina-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1
+#EXTINF:-1 group-title="直播",Bloomberg TV+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="直播",America's Got Talent
+https://da48ygj8xribp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nqz4iiv4surws-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-nqz4iiv4surws/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1
+#EXTINF:-1 group-title="直播",American Idol
+https://dzgc9z8yuogwk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9owhs89zh85fa-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-9owhs89zh85fa/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1
 #EXTINF:-1 group-title="直播",直播中国
 http://gccncc.v.wscdns.com/gc/jsh02_1/index.m3u8?BR=md&ion=shanghai
 #EXTINF:-1 group-title="直播",实时天气
@@ -1233,4 +1271,3 @@ https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
 #EXTINF:-1 group-title="直播",泰山主峰
 https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
-
