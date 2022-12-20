@@ -273,11 +273,13 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 #EXTINF:-1 group-title="港台",AXN
 http://190.131.228.59:8000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
+https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
+#EXTINF:-1 group-title="港台",东森新闻
 http://173.211.42.73:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 #EXTINF:-1 group-title="港台",东森新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20289
 #EXTINF:-1 group-title="港台",中天新闻
-http://103.214.71.71:1639/zhiboyuandakatv.xyz/12345.m3u8
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
 http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian9839623.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
@@ -285,7 +287,7 @@ http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20369
 #EXTINF:-1 group-title="港台",民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20336
 #EXTINF:-1 group-title="港台",民视新闻
@@ -297,9 +299,11 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20345
 #EXTINF:-1 group-title="港台",三立新闻
 http://66.112.218.236:9500/live.m3u8?c=128
 #EXTINF:-1 group-title="港台",中视新闻
-http://tv.redrainl.site:9500/live.m3u8?c=02
+http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 #EXTINF:-1 group-title="港台",中视新闻
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv074&hd=720
+#EXTINF:-1 group-title="港台",华视新闻
+http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 #EXTINF:-1 group-title="港台",华视新闻
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv052&hd=720
 #EXTINF:-1 group-title="港台",TVBS新闻
@@ -307,7 +311,7 @@ http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="港台",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",寰宇新闻
-http://tv.redrainl.site:9500/live.m3u8?c=22
+https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 #EXTINF:-1 group-title="港台",寰宇新闻
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20310
 #EXTINF:-1 group-title="港台",年代新闻
@@ -337,13 +341,15 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20371
 #EXTINF:-1 group-title="港台",中天亚洲
 http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
 #EXTINF:-1 group-title="港台",TVBS
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 #EXTINF:-1 group-title="港台",TVBS亚洲
 http://tv.redrainl.site:9500/live.m3u8?c=25
 #EXTINF:-1 group-title="港台",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="港台",TVBS精彩
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-live086&hd=720
+#EXTINF:-1 group-title="港台",TVBS-G欢乐
+http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
 #EXTINF:-1 group-title="港台",TVBS-G欢乐
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv068&hd=720
 #EXTINF:-1 group-title="港台",纬来综合
@@ -371,6 +377,8 @@ http://59.125.122.90:18600/.m3u8
 #EXTINF:-1 group-title="港台",龙华卡通
 http://60.249.146.250:8517/playlist.m3u8
 #EXTINF:-1 group-title="港台",龙华日韩
+http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
+#EXTINF:-1 group-title="港台",龙华日韩
 http://34.74.29.194:8080/channel.m3u8?fid=litv-longturn11&hd=720
 #EXTINF:-1 group-title="港台",龙华偶像
 http://60.251.39.247:8504/http/192.168.77.24:8066/hls/210/10012/cstv12.m3u8
@@ -379,9 +387,13 @@ http://34.74.29.194:8080/channel.m3u8?fid=litv-longturn18&hd=720
 #EXTINF:-1 group-title="港台",龙华经典
 http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 #EXTINF:-1 group-title="港台",八大精彩
+http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
+#EXTINF:-1 group-title="港台",八大精彩
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv034&hd=720
 #EXTINF:-1 group-title="港台",八大戏剧
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20274
+#EXTINF:-1 group-title="港台",八大综合
+http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
 #EXTINF:-1 group-title="港台",八大综合
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv039&hd=720
 #EXTINF:-1 group-title="港台",八大第一
@@ -397,6 +409,8 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20339
 #EXTINF:-1 group-title="港台",三立戏剧
 http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 #EXTINF:-1 group-title="港台",民视
+http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+#EXTINF:-1 group-title="港台",民视
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv002&hd=720
 #EXTINF:-1 group-title="港台",华视
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv041&hd=720
@@ -409,7 +423,11 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20299
 #EXTINF:-1 group-title="港台",台视综合
 http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
 #EXTINF:-1 group-title="港台",民视台湾台
+http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+#EXTINF:-1 group-title="港台",民视台湾台
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv001&hd=720
+#EXTINF:-1 group-title="港台",民视第一台
+http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
 #EXTINF:-1 group-title="港台",民视第一台
 http://34.74.29.194:8080/channel.m3u8?fid=4gtv-4gtv003&hd=720
 #EXTINF:-1 group-title="港台",中视经典
@@ -1269,3 +1287,81 @@ https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
 #EXTINF:-1 group-title="直播",泰山主峰
 https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 group-title="IPTV-6",CCTV-1
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="IPTV-6",CCTV-2
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="IPTV-6",CCTV-3
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="IPTV-6",CCTV-4
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="IPTV-6",CCTV-5
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="IPTV-6",CCTV-13
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="IPTV-6",湖南卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 group-title="IPTV-6",东方卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="IPTV-6",江苏卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 group-title="IPTV-6",浙江卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="IPTV-6",北京卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="IPTV-6",深圳卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225598/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="IPTV-6",凤凰中文ᴴᴰ
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="IPTV-6",凤凰资讯ᴴᴰ
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+
+#EXTINF:-1 group-title="英国",BBC Four
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One Cambridge
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One Channel Islands
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One East
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One East Midlands
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One East Yorkshire
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_yorkshire/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One London
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 group-title="英国",BBC One North East
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One North West
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One Northern Ireland
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="英国",BBC One Oxford
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_oxford/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One Scotland HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="英国",BBC One South
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One South East
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One South West
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One Wales
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="英国",BBC One West
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One West Midlands
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC One Yorks
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC Scotland
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="英国",BBC Two England
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 group-title="英国",BBC Two
+http://w4.12all.tv:4000/play/bbc2/index.m3u8
+#EXTINF:-1 group-title="英国",BBC Two Northen Ireland
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="英国",BBC Two Wales
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_wales_digital/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
