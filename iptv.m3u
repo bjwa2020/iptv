@@ -364,7 +364,7 @@ http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="三立台湾台" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/三立台湾台.png" group-title="港澳台区",三立台湾台
 http://211.72.65.236:8521/.m3u8
-#EXTINF:-1  tvg-name="TVBS亚洲" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png"  group-title="港澳台",TVBS亚洲
+#EXTINF:-1  tvg-name="TVBS亚洲" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png"  group-title="港澳台区",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="纬来精彩台" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/纬来精彩.png" group-title="港澳台区",纬来精彩台
 http://61.221.215.25:8800/hls/48/index.m3u8
@@ -406,22 +406,8 @@ https://litv.zapi.us.kg/?id=litv-longturn03
 https://litv.zapi.us.kg/?id=litv-longturn18
 #EXTINF:-1 group-title="港澳台区",龙华经典
 https://litv.zapi.us.kg/?id=litv-longturn21
-#EXTINF:-1 group-title="港澳台区",三立综合
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/台视.png" group-title="港澳台区",台视HD
-http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/民视新闻台.png" group-title="港澳台区",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/民视.png" group-title="港澳台区",民视HD
-https://stream1.freetv.fun/min-shi-8.m3u8
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/民视台湾台.png" group-title="港澳台区",民视台湾台
-http://37.27.111.214:8080/live/5/hls.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/中视新闻.png" group-title="港澳台区",中视新闻台
-https://stream1.freetv.fun/zhong-shi-xin-wen-4.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/TVB无线新闻台.png" group-title="港澳台区",TVB无线新闻
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/tvb.png" group-title="港澳台区",TVB娱乐新闻台
-http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="大爱一台" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/大爱.png" group-title="港澳台区",大爱一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱二台" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/大爱.png" group-title="港澳台区",大爱二台
